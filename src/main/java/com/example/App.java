@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.interactions.WheelInput;
 import org.openqa.selenium.support.ui.*;
 
 //mvn compile ;  mvn exec:java -Dexec.mainClass="com.example.App"
@@ -35,10 +37,11 @@ public class App {
         WebElement accountButton = waitFor(accountButtonBy);
         accountButton.click();
 
-        int numQuestions = 5;
-        for (int i = 0; i < numQuestions; i++) {
-            populateQuestion(i);
-        }
+        populateQuestion(1);
+        // int numQuestions = 5;
+        // for (int i = 0; i < numQuestions; i++) {
+        //     populateQuestion(i);
+        // }
 
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
     }
@@ -48,29 +51,10 @@ public class App {
         return wait.until(ExpectedConditions.visibilityOfElementLocated(thing));
     }
 
-    public static void sleep(int seconds) {
+    public static void sleep(double seconds) {
         try {
-            Thread.sleep(seconds * 1000);
+            Thread.sleep((int) (seconds * 1000));
         } catch (InterruptedException error) {}
-    }
-
-    public static void login() {
-        // Dotenv dotenv = Dotenv.load();
-        // String email = dotenv.get("EMAIL");
-        // String pass = dotenv.get("PASS");
-        // //enter email
-        // WebElement emailInput = waitFor(By.id("identifierId"));
-        // emailInput.sendKeys(email);
-        // //click next
-        // sleep(1);
-        // driver.findElement(By.xpath("//span[text()='Next']/..")).click();
-        // //enter password, click next
-        // WebElement passInput =  waitFor(By.xpath("//input[@type='password']"));
-        // driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-        // passInput.sendKeys(pass);
-        //Must click next manually??
-        // sleep(5);
-        // driver.findElement(By.xpath("//span[text()='Next']/..")).click();
     }
 
     public static String getBankURL(int unit) {
@@ -82,5 +66,78 @@ public class App {
         return urls.get(unit + 1);
     }
 
-    public static void populateQuestion(int questionNum) {}
+    public static void populateQuestion(int questionNum) {
+        WebElement createMCQButton = waitFor(
+            By.xpath("//a[@aria-label='Add Multiple Choice Item']")
+        );
+        createMCQButton.click();
+
+        WebElement questionBox = waitFor(
+            By.xpath("//div[@sgy-translation-attr='Write your question']")
+        );
+        sleep(0.5);
+
+        questionBox.click();
+        String question = "What is the pKa of magic acid?";
+        sendKeysSlower(question);
+
+        //add the 5th option if exists
+        WebElement addOptionButton = driver.findElement(
+            By.xpath("//button[@aria-label='Option']")
+        );
+        int numOptions = 5;
+        if (numOptions == 5) addOptionButton.click();
+        sleep(0.5);
+
+        List<WebElement> optionBoxes = driver.findElements(
+            By.xpath(
+                "//div[contains(@aria-label, 'Label') and @role='textbox']"
+            )
+        );
+
+        for (WebElement option : optionBoxes) {
+            option.click();
+            String answer = "i don't know?????";
+            sendKeysSlower(answer);
+            sleep(0.2);
+        }
+
+        //get scrollable container
+        WebElement scrollableDiv = driver.findElement(
+            By.className("ltq-modal-question-editor__scrollable-content")
+        );
+        //https://www.selenium.dev/documentation/webdriver/actions_api/wheel/
+        WheelInput.ScrollOrigin scrollOrigin =
+            WheelInput.ScrollOrigin.fromElement(scrollableDiv);
+        new Actions(driver).scrollFromOrigin(scrollOrigin, 0, 400).perform();
+
+        sleep(3);
+
+        int answer = 4;
+        List<WebElement> answerChoiceRadios = driver.findElements(
+            By.xpath("//*[@class='lrn-mcq-option']//input[@type='radio']")
+        );
+        answerChoiceRadios.get(answer - 1).click();
+
+        WebElement shuffleOptionButton = waitFor(
+            By.xpath(
+                "//span[@class='lrn-qe-switch-trigger' and @yes-text='Yes']"
+            )
+        );
+        shuffleOptionButton.click();
+
+        sleep(0.5);
+
+        WebElement saveButton = driver.findElement(
+            By.cssSelector(".save.btn.btn-primary")
+        );
+        saveButton.click();
+    }
+
+    static void sendKeysSlower(String text) {
+        for (char c : text.toCharArray()) {
+            new Actions(driver).sendKeys(String.valueOf(c)).perform();
+            sleep(0.02);
+        }
+    }
 }
