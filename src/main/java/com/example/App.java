@@ -1,6 +1,7 @@
 package com.example;
 
 import io.github.cdimascio.dotenv.Dotenv;
+import java.lang.Character;
 import java.time.Duration;
 import java.util.Arrays;
 import java.util.List;
@@ -75,9 +76,10 @@ public class App {
         WebElement questionBox = waitFor(
             By.xpath("//div[@sgy-translation-attr='Write your question']")
         );
-        sleep(0.5);
+        sleep(0.2);
 
         questionBox.click();
+        sleep(0.2);
         String question = "What is the pKa of magic acid?";
         sendKeysSlower(question);
 
@@ -97,9 +99,10 @@ public class App {
 
         for (WebElement option : optionBoxes) {
             option.click();
+            sleep(0.1);
             String answer = "i don't know?????";
             sendKeysSlower(answer);
-            sleep(0.2);
+            sleep(0.1);
         }
 
         //get scrollable container
@@ -113,7 +116,7 @@ public class App {
 
         sleep(3);
 
-        int answer = 4;
+        int answer = 5;
         List<WebElement> answerChoiceRadios = driver.findElements(
             By.xpath("//*[@class='lrn-mcq-option']//input[@type='radio']")
         );
@@ -136,7 +139,7 @@ public class App {
 
     static void sendKeysSlower(String text) {
         for (char c : text.toCharArray()) {
-            new Actions(driver).sendKeys(String.valueOf(c)).perform();
+            new Actions(driver).sendKeys(Character.toString(c)).perform();
             sleep(0.02);
         }
     }
