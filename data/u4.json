@@ -1,0 +1,598 @@
+[
+  {
+    "question": "CO2(g) + 2LiOH(s) → Li2CO3(aq) + H2O(l) In a one-person spacecraft, an astronaut exhales 880 g of CO2(g) (molar mass 44 g/mol) per day. To prevent the buildup of CO2(g) in the spacecraft, a device containing LiOH(s) is used to remove the CO2(g), as represented by the equation above. What mass of LiOH(s) (molar mass 24 g/mol) is needed to react with all of the CO2(g) produced by an astronaut in one day?",
+    "responses": {
+      "1": "40. g",
+      "2": "240 g",
+      "3": "480 g",
+      "4": "960 g",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Students are asked to design an experiment to determine the molarity of a BaCl2(aq) solution. After examining the Ksp values of some barium-containing compounds, the students decide to use 0.100 M K2CO3(aq) to precipitate the barium ions. An excess of K2CO3(aq) is added to a 50.0 mL sample of the BaCl2(ag) solution, and the reaction represented by the following equation occurs. BaCl2(aq) + K2CO3(aq) → BaCO3(s) + 2KCl(aq) The BaCO3(s) is filtered, dried, and weighed. The data are recorded in the following table. Volume of BaCO3(aq): 50.0 mL, Volume of 0.100 M K2CO3(s): 150. mL, Mass of BaCO3(s): 1.97 g. The molar mass of BaCl2(aq) and BaCO3 are 208 g/mol and 197 g/mol respectively. On the basis of the experimental data, what was [Ba2+] in the original 50.0mL of the solution?",
+    "responses": {
+      "1": "0.05 M",
+      "2": "0.10 M",
+      "3": "0.20 M",
+      "4": "0.40 M",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Compound: Unknown, Balanced Equation for the Combustion of One Mole of the Compound: ? + 5 O2(g) → 4 CO2(g) + 4 H2O(l). Which of the following is the molecular formula of the unknown compound?",
+    "responses": {
+      "1": "C4H8",
+      "2": "C4H8O",
+      "3": "C4H4O2",
+      "4": "C4H8O2",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Samples of NaF(s) and NH4Cl(s) are dissolved in separate beakers that each contain 100mL of water. One of the salts produces a slightly acidic solution. Which of the following equations best represents the formation of the slightly acidic solution?",
+    "responses": {
+      "1": "Na+(aq) + 2H2O(l) ⇄ NaOH(aq) + H3O+(aq)",
+      "2": "F-(aq) + H2O(l) ⇄ HF(aq) + OH-(aq)",
+      "3": "NH4+(aq) + H2O(l) ⇄ NH3(aq) + H3O+(aq)",
+      "4": "Cl-(aq) + H2O(l) ⇄ HCl(aq) + OH-(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A Samples of two different acids are titrated using the same standardized solution of NaOH(aq). According to the data in the table above, how many milliliters of the standardized NaOH(aq) are required to reach the equivalence point when the 25.0 mL sample of 0.200 M HClO(aq) is titrated?",
+    "responses": {
+      "1": "12.0 mL",
+      "2": "24.0 mL",
+      "3": "48.0 mL",
+      "4": "It cannot be determined without knowing the values of Ka for HClO4(aq) and HClO(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following equations best represents the species that react and the species that are produced when CaCO3(s) and HCl(aq) are combined?",
+    "responses": {
+      "1": "2 H+(aq) + CaCO3(s) → Ca2+(aq) + CO32-(aq) + H2(g)",
+      "2": "2 H+(aq) + CaCO3(s) → Ca2+(aq) + H2O(l) + CO2(g)",
+      "3": "2 H+(aq) + CaCO3(s) → Ca2+(aq) + 2 OH(aq) + CO(g)",
+      "4": "2 HCl(aq) + CaCO3(s) → Ca2+(aq) + H2O(l) + CO2(g) + 2 Cl(aq)",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "AlCl3(aq) + 3 NaOH(aq) → Al(OH)3(s) + 3 NaCl(aq) Which of the following is the balanced net ionic equation for the reaction represented by the preceding equation?",
+    "responses": {
+      "1": "Al3+(aq) + OH-(aq) → Al(OH)3(s)",
+      "2": "Al3+(aq) + 3 OH-(aq) → Al(OH)3(s)",
+      "3": "Al3+(aq) + 3 Cl-(aq) + 3NaOH(aq) → Al(OH)3(s) + 3 Na+(aq) + 3 Cl-(aq)",
+      "4": "Al3+(aq) + 3 Cl-(aq) + 3 Na+(aq) + 3 OH-(aq) → Al(OH)3(s) + 3 Na+(aq) + 3 Cl-(aq)",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A Sodium hydroxide can be produced commercially from the electrolysis of sodium chloride solutions, as indicated by the following balanced equation. Which of the following is the best evidence that the reaction is an oxidation-reduction reaction?",
+    "responses": {
+      "1": "Heat is consumed during the reaction.",
+      "2": "The oxidation numbers of both Na and O change as the reaction proceeds.",
+      "3": "The oxidation number of each Cl atom changes from -1 to 0, and some H atoms change from +1 to 0.",
+      "4": "Each Cl atom gains an electron, and each H2O molecule loses a proton",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A Samples of N2(g) and H2(g) are placed in a rigid container at a constant temperature of 315 K and allowed to react according to the following equation. The reactants are represented in the diagram. A catalyst is added to the mixture and the reaction occurs. Which of the following is a correct particulate representation of the mixture after the reaction occurs?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A sample of an ideal gas in a sealed container occupies a volume of 50.0 L at 200 K. The temperature of the gas is changed to 400 K, and the pressure doubles. Which of the following must occur and why?",
+    "responses": {
+      "1": "Volume must decrease because the pressure is higher.",
+      "2": "Volume must increase because the temperature is higher.",
+      "3": "Volume must remain the same because the pressure and temperature change proportionately.",
+      "4": "Volume cannot be predicted without knowing the number of moles of gas in the sample.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A 20. mL sample of 0.50 M HC2H3O2(aq) is titrated with 0.50 M NaOH(aq). Which of the following best represents the species that react and the species produced in the reaction?",
+    "responses": {
+      "1": "H+(aq) + OH-(aq) → H2O(l)",
+      "2": "H+(aq) + C2H3O2-(aq) + Na+(aq) + OH-(aq) → H2O(l) + NaC2H3O2(aq)",
+      "3": "HC2H3O2(aq) + OH-(aq) → C2H3O2-(aq) + H2O(l)",
+      "4": "HC2H3O2(aq) + NaOH(aq) → H2O(l) + Na+(aq) + C2H3O2-(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A Standard reduction potentials for the half-reactions associated with the electrochemical cell shown above are given in the table below. Which of the following is the net ionic equation for the overall reaction that occurs as the cell operates?",
+    "responses": {
+      "1": "Ag(s) + Zn2+(aq) → Ag2+(aq) + Zn(s)",
+      "2": "Ag+(aq) + Zn2+(aq) + 3e- → AgZn(s)",
+      "3": "Ag+(aq) + Zn(s) → Ag(s) + Zn2+(aq) + e-",
+      "4": "2 Ag+(aq) + Zn(s) → 2 Ag(s) + Zn2+(aq)",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Step 1: 4FeS2(s) + 11O2(g) → 2Fe2O3(s) + 8SO2(g) Step 2: Fe2O3(s) + 3CO(g) → 3CO2(g) + 2Fe(s) Extraction of Fe(s) from pyrite, FeS2, is a two-step process, as represented above. The maximum amount of Fe(s) that could be extracted from 120 grams of FeS2 (molar mass 120 g/mol) is approximately",
+    "responses": {
+      "1": "28 grams",
+      "2": "56 grams",
+      "3": "84 grams",
+      "4": "112 grams",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "H2(g) + I2(g) → 2HI(g) Hydrogen gas reacts with iodine gas at constant temperature in a sealed, rigid container. The gases are allowed to reach equilibrium according to the equation above. Which of the following best describes what will happen to the reaction immediately after additional iodine gas is added to the system?",
+    "responses": {
+      "1": "The rates of both the forward and reverse reactions decrease",
+      "2": "The rates of both the forward and reverse reactions do not change",
+      "3": "The rate of the forward reaction becomes greater than the rate of the reverse reaction",
+      "4": "The rate of the forward reaction becomes less than the rate of the reverse reaction",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "2H2O2(aq) → 2H2O(l) + O2(g) If 6.0*10^-3 mol of H2O2 was consumed in the experiment, how many total moles of products were produced?",
+    "responses": {
+      "1": "6.0*10^-3 mol",
+      "2": "9.0*10^-3 mol",
+      "3": "12*10^-3 mol",
+      "4": "18*10^-3 mol",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "2H2O2(aq) → 2H2O(l) + O2(g) The student claims that the reaction is an oxidation-reduction reaction. Which of the following statements correctly describes a change in oxidation number as the decomposition reaction proceeds?",
+    "responses": {
+      "1": "The oxidation number of hydrogen changes from +2 to +1.",
+      "2": "The oxidation number of hydrogen changes from +1 to +2.",
+      "3": "The oxidation number of oxygen changes from -2 to -1.",
+      "4": "The oxidation number of oxygen changes from -1 to 0.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A The structure of haloacetic acids, XCH2COOH (where X is either F, Cl, Br, or I), is shown above. The dissociation constants and molar masses of four haloacetic acids are listed in the table. A student titrates 10.0 mL samples of 1.0M solutions of each of the haloacetic acids with a standard solution of NaOH. Which of the following statements correctly predicts the volume of NaOH(aq) needed to reach the equivalence point?",
+    "responses": {
+      "1": "Fluoroacetic acid will need the smallest volume of NaOH(aq) to reach the equivalence point.",
+      "2": "Iodoacetic acid will need the smallest volume of NaOH(aq) to reach the equivalence point.",
+      "3": "All of the acids will need the same volume of NaOH(aq) to reach the equivalence point.",
+      "4": "All of the haloacetic acids are weak; therefore none will reach an equivalence point.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Cu(s) + 4 HNO3(aq) → Cu(NO3)2(aq) + 2NO2(g) + 2H2O(l) Each student in a class placed a 2.00 g sample of a mixture of Cu and Al in a beaker and placed the beaker in a fume hood. The students slowly poured 15.0 mL of 15.8 M HNO3(aq) into their beakers. The reaction between the copper and the mixture and the HNO3(aq) is represented by the equation above. The students observed that a brown gas was released from the beakers and that the solutions turned blue, indicating the formation of Cu2+(aq). The solutions were then diluted with distilled water to known volumes. Which of the following is true about the reaction?",
+    "responses": {
+      "1": "It is a Bronsted-Lowry acid-base reaction because the solution is neutral at the end.",
+      "2": "It is a Bronsted-Lowry acid-base reaction because HNO3(aq) is a strong acid.",
+      "3": "It is a redox reaction because Cu(s) is oxidized and H+(aq) is reduced.",
+      "4": "It is a redox reaction because Cu(s) is oxidized and the nitrogen atom in NO3-(aq) is reduced.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET A The diagram represents a mixture that results when samples of Cl2(g) and H2(g) are combined and react, producing HCl(g). Which of the following identifies the limiting reactant and provides the best justification?",
+    "responses": {
+      "1": "H2, because there is unreacted H2 present.",
+      "2": "H2, because it has a smaller molar mass than Cl2.",
+      "3": "Cl2, because there is no unreacted Cl2 present.",
+      "4": "Cl2, because it has a larger molar mass than H2.",
+      "5": null
+    },
+    "answer": 3
+  },
+
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET B The diagram above represents a particle in aqueous solution. Which of the following statements about the particle is correct?",
+    "responses": {
+      "1": "The particle must be a cation because the negative end of each water molecule is pointed toward it.",
+      "2": "The particle must be an anion because the positive end of each water molecule is pointed toward it.",
+      "3": "The charge of the particle cannot be determined because water molecules have no net charge",
+      "4": "The charge of the particle cannot be determined because the water molecules are arranged symmetrically and their partial charges cancel.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following describes the changes in forces of attraction that occur as H2O changes phase from a liquid to a vapor?",
+    "responses": {
+      "1": "H-O bonds break as H-H and O-O bonds form",
+      "2": "Hydrogen bonds between H2O molecules are broken",
+      "3": "Covalent bonds between H2O molecules are broken",
+      "4": "Ionic bonds between H+ ions and OH- ions are broken",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "M+ is an unknown metal cation with a +1 charge. A student dissolves the chloride of the unknown metal, MCI, in enough water to make 100.0 mL of solution. The student then mixes the solution with excess AgNO3 solution, causing AgCl to precipitate. The student collects the precipitate by filtration, dries it, and records the data shown below. (The molar mass of AgCl is 143 g/mol.) Mass of unknown chloride, MCl: 0.74 g. Mass of filter paper: 0.80 g. Mass of filter paper plus AgCl precipitate: 2.23 g. What is the identity of the metal chloride?",
+    "responses": {
+      "1": "NaCl",
+      "2": "KCl",
+      "3": "CuCl",
+      "4": "LiCl",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A solution is prepared by adding 100 mL of 1.0 M HC3H3O2(aq) to 100 mL of 1.0 M NaC2H3O2(aq). The solution is stirred and its pH is measured to be 4.73. After 3 drops of 1.0 M HCl are added to the solution, the pH of the solution is measured and is still 4.73. Which of the following equations represents the chemical reaction that accounts for the fact that acid was added but there was no detectable change in pH?",
+    "responses": {
+      "1": "H3O+(aq) + OH-(aq) -> 2 H2O(l)",
+      "2": "H3O+(aq) + Cl-(aq) -> HCl(g) + H2O(l)",
+      "3": "H3O+(aq) + C2H3O2-(aq) -> HC2H3O2(aq) + H2O(l)",
+      "4": "H3O+(aq) + HC2H3O2(aq) -> H2C2H3O2+(aq) + H2O(l)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "In which of the following compounds is the oxidation number of chromium the greatest?",
+    "responses": {
+      "1": "CrO42-",
+      "2": "CrO",
+      "3": "Cr3+",
+      "4": "Cr(s)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "What is the mass of oxygen in 148 grams of calcium hydroxide (Ca(OH)2)?",
+    "responses": {
+      "1": "24 grams",
+      "2": "32 grams",
+      "3": "48 grams",
+      "4": "64 grams",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "As a sample of KNO3(s) is stirred into water at 25°C, the compound dissolves endothermically. Which of the following best helps to explain why the process is thermodynamically favorable at 25°C?",
+    "responses": {
+      "1": "All endothermic processes are thermodynamically favorable.",
+      "2": "Stirring the solution during dissolution adds the energy needed to drive an endothermic process.",
+      "3": "Dissolving the salt decreases the enthalpy of the system.",
+      "4": "Dissolving the salt increases the entropy of the system",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "In one student's experiment the reaction (Cu(s) + 4 HNO3(aq) → Cu(NO3)2(aq) + 2 NO2(g) + 2H2O(l)) proceeded at a much slower rate than it did in the other student's experiments. Which of the following could explain the slower reaction rate?",
+    "responses": {
+      "1": "In the student's sample the metal pieces were much smaller than those in the other students' samples",
+      "2": "The student heated the reaction mixture as the HNO3(aq) was added",
+      "3": "The student used a 1.5 M solution of HNO3(aq) instead of a 15.8 M solution of HNO3(aq)",
+      "4": "The student used a 3.00g sample of the mixture instead of the 2.00g sample that was used by the other students",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A sealed 10.0 L flask at 400 K contains equimolar amounts of ethane and propanol in gaseous form. Which of the following statements concerning the average molecular speed of ethane and propanol is true?",
+    "responses": {
+      "1": "The average molecular speed of ethane is less than the average molecular speed of propanol.",
+      "2": "The average molecular speed of ethane is greater than the average molecular speed of propanol.",
+      "3": "The average molecular speed of ethane is equal to the average molecular speed of propanol.",
+      "4": "The average molecular speeds of ethane and propanol cannot be compared without knowing the total pressure of the gas mixture.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET B A mixture of H2(g) and O2(g) is placed in a container as represented above. The H2(g) and O2(g) react to form H2O(g). Which of the following best represents the container after the reaction has gone to completion?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET B Image A",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET B Image B",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET B Image C",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET B Image D",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "14 H+(aq) + Cr2O72-(aq) + 3Ni(s) -> 2Cr3+(aq) + 3Ni2+(aq) + 7H2O(l) In the above reaction, a piece of solid nickel is added to a solution of potassium dichromate. Which species is being oxidized and which is being reduced?",
+    "responses": {
+      "1": "Oxidized: Cr2O72-(aq), Reduced: Ni(s)",
+      "2": "Oxidized: Cr3+(aq), Reduced: Ni2+(aq)",
+      "3": "Oxidized: Ni(s), Reduced: Cr2O72-(aq)",
+      "4": "Oxidized: Ni2+(aq), Reduced: Cr3+(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "During a chemical reaction, NO(g) gets reduced and no nitrogen-containing compound is oxidized. Which of the following is a possible product of this reaction?",
+    "responses": {
+      "1": "NO2(g)",
+      "2": "N2(g)",
+      "3": "NO3-(g)",
+      "4": "NO2-(g)",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "In an experiment, 30.0 g of ethane and 30.0 g of propanol are placed in separate reaction vessels. Each compound undergoes complete combustion with excess O2(g). Which of the following best compares the quantity of heat released in each combustion reaction?",
+    "responses": {
+      "1": "qethane < qpropanol",
+      "2": "qethane = qpropanol",
+      "3": "qethane > qpropanol",
+      "4": "The quantities of heat released in the combustions of ethane and propanol cannot be compared without knowing the specific heat capacity of the compounds.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Salts containing halide anions are soluble except for those containing Ag+, Pb2+, and Hg22+. Salts containing carbonate anions are insoluble except for those containing alkali metals or ammonium. If solutions containing equal amounts of AgNO3 and KCl are mixed, what is the identity of the spectator ions?",
+    "responses": {
+      "1": "Ag+, NO3-, K+, and Cl-",
+      "2": "Ag+ and Cl-",
+      "3": "K+ and Ag+",
+      "4": "K+ and NO3-",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "If the temperature of the gas is doubled while the volume is held constant, what will happen to the pressure exerted by the gas and why?",
+    "responses": {
+      "1": "It will also double, because the gas molecules will be moving faster",
+      "2": "It will also double, because the gas molecules are exerting a greater force on each other",
+      "3": "It will be cut in half, because the molecules will lose more energy when colliding",
+      "4": "It will increase by a factor of 4 because the kinetic energy will be four times greater",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "A sample of a hydrate of CuSO4 with a mass of 250 grams was heated until all the water was removed. The sample was then weighed and found to have a mass of 160 grams. What is the formula for the hydrate?",
+    "responses": {
+      "1": "CuSO4 * 10H2O",
+      "2": "CuSO4 * 7H2O",
+      "3": "CuSO4 * 5H2O",
+      "4": "CuSO4 * 2H2O",
+      "5": null
+    },
+    "answer": 3
+  },
+
+  {
+    "question": "Which of the following is the balanced net-ionic equation for the reaction\n between Li(s) and water?",
+    "responses": {
+      "1": "Li(s) + 2 H+(aq) + 2 OH-(aq) → 2 Li+(aq) + 2 OH-(aq) + H2(g)",
+      "2": "2 Li(s) + 2 H2O(l) → 2 Li+(aq) + 2 OH-(aq) + H2(g)",
+      "3": "2 Li(s) + 2 H2O(l) → 2 LiOH(s) + H2(g)",
+      "4": "Li(s) + 2 H2O(l) → 2 LiH(s) + H2(g)",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C The data in the table above were obtained for the reaction X + Y → Z. Which of the following is the rate law for the reaction?",
+    "responses": {
+      "1": "Rate = k[X]^2",
+      "2": "Rate = k[Y]^2",
+      "3": "Rate = k[X][Y]",
+      "4": "Rate = k[X]^2[Y]",
+      "5": "Rate = k[X][Y]^2"
+    },
+    "answer": 2
+  },
+  {
+    "question": "N2O(g) + CO(g) → N2(g) + CO2(g). Which of the following happens when a Pd catalyst is used for the reaction?",
+    "responses": {
+      "1": "Pd increases the activation energy of the reaction.",
+      "2": "Pd absorbs the heat produced in the reaction.",
+      "3": "One of the reactants binds on the surface of Pd, which introduces an alternative reaction pathway with a lower activation energy.",
+      "4": "One of the products binds on the surface of Pd, which increases the reaction rate by decreasing the concentration of products in the mixture.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "2 H2O2(aq) → 2 H2O(l) + O2(g) ΔH° = -196 kJ/molrxn. The decomposition of H2O2(aq) is represented by the equation above. A student monitored the decomposition of a 1.0 L sample of H2O2(aq) at a constant temperature of 300 K and recorded the concentration of H2O2 as a function of time. Which of the following identifies the element(s) being oxidized and reduced in the reaction?",
+    "responses": {
+      "1": "Hydrogen is oxidized and oxygen is reduced.",
+      "2": "Oxygen is oxidized and hydrogen is reduced.",
+      "3": "Oxygen is both oxidized and reduced.",
+      "4": "No elements are oxidized or reduced; the reaction is not a redox reaction.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Li3N(s) + 2 H2(g) ⇌ LiNH2(s) + 2 LiH(s) ΔH° = -192 kJ/molrxn. Because pure H2 is a hazardous substance, safer and more cost effective techniques to store it as a solid for shipping purposes have been developed. One such method is the reaction represented above, which occurs at 200°C. Which of the following happens to H atoms in the forward reaction?",
+    "responses": {
+      "1": "H atoms are oxidized only.",
+      "2": "H atoms are reduced only.",
+      "3": "H atoms are both oxidized and reduced.",
+      "4": "H atoms are neither oxidized nor reduced.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "The percentage of silver in a solid sample is determined gravimetrically by converting the silver to Ag+(aq) and precipitating it as silver chloride. Failure to do which of the following could cause errors in the analysis?\nI. Account for the mass of the weighing paper when determining the mass of the sample\nII. Measure the temperature during the precipitation reaction\nIII. Wash the precipitate\nIV. Heat the AgCl precipitate to constant mass",
+    "responses": {
+      "1": "I only",
+      "2": "I and II",
+      "3": "I and IV",
+      "4": "II and III",
+      "5": "I, III, and IV"
+    },
+    "answer": 5
+  },
+  {
+    "question": "Identify the reaction in which a single species is both oxidized and reduced",
+    "responses": {
+      "1": "2 C6H6(l) + 15 O2(g) → 12 CO2(g) + 6 H2O(l)",
+      "2": "C2H3O2-(aq) + H3O+(aq) → HC2H3O2(aq) + H2O(l)",
+      "3": "4 H+(aq) + 4 Co2+(aq) + O2(q) + 24 NH3(aq) → 4 Co(NH3)6^3+(aq) + 2 H2O(l)",
+      "4": "CaCO3(s) → CaO(s) + CO2(g)",
+      "5": "2 H2O2(l) → O2(g) + 2 H2O(l)"
+    },
+    "answer": 5
+  },
+  {
+    "question": "C9H8O4(aq) + NaOH(aq) ⇌ C9H7O4-(aq) + Na+(aq) + H2O(l). The reaction represented above occurs when 2.00*10^-4 mol of pure acetylsalicylic acid, C9H8O4, is completely dissolved in 15.00 mL of water in a flask and titrated to the equivalence point with 0.100 M NaOH(aq). Which of the following statements about the titration is true at the equivalence point?",
+    "responses": {
+      "1": "[C9H8O4] is greater than [C9H7O4-].",
+      "2": "[C9H8O4] is less than [C9H7O4-].",
+      "3": "[C9H8O4] is equal to [C9H7O4-].",
+      "4": "The relationship between [C9H8O4] and [C9H7O4-] cannot be determined without additional information.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Equimolar samples of CH3OH(l) and C2H5OH(l) are placed in separate, previously evacuated, rigid 2.0 L vessels. Each vessel is attached to a pressure gauge, and the temperatures are kept at 300 K. In both vessels, liquid is observed to remain present at the bottom of the container at all times. Which of the following best describes the change that takes place immediately after the CH3OH(l) is introduced into the previously evacuated vessel?",
+    "responses": {
+      "1": "A chemical change takes place because covalent bonds are broken.",
+      "2": "A chemical change takes place because intermolecular attractions are overcome.",
+      "3": "A physical change takes place because covalent bonds are broken.",
+      "4": "A physical change takes place because intermolecular attractions are overcome.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following best helps explain why an increase in temperature increases the rate of a chemical reaction?",
+    "responses": {
+      "1": "At higher temperatures, reactions have a lower activation energy.",
+      "2": "At higher temperatures, reactions have a higher activation energy.",
+      "3": "At higher temperatures, every collision results in the formation of product.",
+      "4": "At higher temperatures, high-energy collisions happen more frequently.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "HX(aq) + Y-(aq) ⇌ HY(aq) + X-(aq) Keq > 1. Based on the information given above, which of the following is the strongest acid?",
+    "responses": {
+      "1": "HX(aq)",
+      "2": "Y-(aq)",
+      "3": "HY(aq)",
+      "4": "X-(aq)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l). To determine the concentration of a NaOH(aq) solution, a student titrated a 50. mL sample with 0.10 M HCl(aq). The reaction is represented by the equation above. The titration is monitored using a pH meter, and the experimental results are plotted in the graph below. At the point labeled R on the pH curve, which of the following ions are present in the reaction mixture at a concentration greater than 0.01M?",
+    "responses": {
+      "1": "Na+ and Cl- only",
+      "2": "Na+, Cl-, and H+ only",
+      "3": "Na+, Cl-, and OH- only",
+      "4": "Na+, Cl-, H+, and OH-",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C Which of the following particulate diagrams best shows the formation of water vapour from hydrogen gas and oxygen gas in a rigid container at 125°C?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MnO4- + 5 Fe2+ + 8 H+ → Mn2+ + 5 Fe3+ + 4 H2O. In the reaction represented above, the number of MnO4- ions that react must be equal to which of the following?",
+    "responses": {
+      "1": "One-fifth the number of Fe2+ ions that are consumed",
+      "2": "Eight times the number of H+ ions that are consumed",
+      "3": "Five times the number of Fe3+ ions that are produced",
+      "4": "One-half the number of H2O molecules that are produced",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "C3H8(g) + 4 Cl2(g) → C3H4Cl4(g) + 4 HCl(g). A 6.0 mol sample of C3H8 and a 20.0 mol sample of Cl2(g) are placed in a previously evacuated vessel, where they react according to the equation above. After one of the reactants has been totally consumed, how many moles of HCl(g) have been produced?",
+    "responses": {
+      "1": "4.0 mol",
+      "2": "8.0 mol",
+      "3": "20. mol",
+      "4": "24. mol",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "The reaction between solid aluminium and aqueous nickel (II) nitrate is represented in the equation below. Which of the following is the oxidation half reaction for the reaction?\nAl(s) + Ni(NO3)2(aq) → Al(NO3)3(aq) + Ni(s)",
+    "responses": {
+      "1": "Ni(s) → Ni2+(aq) + 2e-",
+      "2": "Ni2+(aq) + 2e- → Ni(s)",
+      "3": "Al(s) → Al3+(aq) + 3e-",
+      "4": "Al3+(aq) + 3e- → Al(s)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Fe(s) + 2 HCl(aq) → FeCl2(aq) + H2(g). When a student adds 30 mL of 1 M HCl to 0.56 g of powdered Fe, a reaction occurs according to the equation above. When the reaction is complete at 273 K and 1 atm, which of the following is true?",
+    "responses": {
+      "1": "HCl is in excess and 0.100 mol of HCl remain unreacted",
+      "2": "HCl is in excess and 0.020 mol of HCl remain unreacted",
+      "3": "0.015 mol of FeCl2 has been produced",
+      "4": "0.22 L of H2 has been produced",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Zn(s) + 2 HCl(aq) → ZnCl2(aq) + H2(g). When a student adds 50 mL of 1 M HCl to 2.35 g of Zn, a reaction occurs according to the equation above. When the reaction is complete at 273 K and 1.00 atm, 0.560 L H2(g) is produced. Which of the following changes would increase the volume of H2?\nI. Doubling the mass of Zn\nII. Doubling the volume of HCl\nIII. Doubling the concentration of HCl",
+    "responses": {
+      "1": "all of the above",
+      "2": "I and II",
+      "3": "I and III",
+      "4": "II and III",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C The diagrams above represent solutes present in two different dilute aqueous solutions before they were mixed. Water molecules are not shown. When the solutions were combined, a precipitation reaction took place. Which of the diagrams below is the best particle representation of the mixture after the precipitation reaction occurred?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 4 SET C",
+      "5": null
+    },
+    "answer": 4
+  }
+]

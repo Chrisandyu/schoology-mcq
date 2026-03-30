@@ -1,0 +1,421 @@
+[
+  {
+    "question": "If a reaction is endothermic, which of the following is true about the enthalpy change (ΔH)?",
+    "responses": {
+      "1": "ΔH is zero",
+      "2": "ΔH is positive",
+      "3": "ΔH is always equal to entropy change",
+      "4": "ΔH is negative",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best describes the specific heat capacity of a substance?",
+    "responses": {
+      "1": "The amount of heat needed to raise the temperature of 1 gram of the substance by 1°C",
+      "2": "The total heat content of a substance at constant pressure",
+      "3": "The energy required to break all bonds in one mole of a compound",
+      "4": "The heat released during a phase change",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "In a calorimetry experiment, the heat lost by a hot object is equal to the",
+    "responses": {
+      "1": "heat gained by the surrounding water",
+      "2": "heat lost by the calorimeter itself",
+      "3": "energy required to melt the ice",
+      "4": "energy released as light",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following statements is true about an endothermic reaction?",
+    "responses": {
+      "1": "The system releases heat to the surroundings",
+      "2": "The enthalpy change (ΔH) is negative",
+      "3": "The products have higher enthalpy than the reactants",
+      "4": "The temperature of the surroundings increases",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best describes an exothermic reaction?",
+    "responses": {
+      "1": "It absorbs heat from the surroundings, and the temperature of the surroundings decreases",
+      "2": "It releases heat to the surroundings, and the temperature of the surroundings increases",
+      "3": "It involves no energy change",
+      "4": "It requires continuous input of energy to proceed",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains why increasing the temperature increases the rate of a chemical reaction?",
+    "responses": {
+      "1": "It increases the number of products formed.",
+      "2": "It increases the activation energy of the reaction.",
+      "3": "It increases the average kinetic energy of the particles, leading to more effective collisions.",
+      "4": "It decreases the concentration of the reactants.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is true for an exothermic reaction?",
+    "responses": {
+      "1": "The system absorbs heat from the surroundings.",
+      "2": "The products have more energy than the reactants.",
+      "3": "The enthalpy change (ΔH) is positive.",
+      "4": "Heat is released to the surroundings.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Given the following equations:\n1) C(s) + O2(g) → CO2(g) ΔH = -393 kJ\n2) C(s) + 1/2 O2(g) → CO(g) ΔH = -111 kJ\nWhat is the ΔH for the following reaction?: CO(g) + 1/2 O2(g) → CO2(g)",
+    "responses": {
+      "1": "-282 kJ",
+      "2": "-504 kJ",
+      "3": "+282 kJ",
+      "4": "-111 kJ",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "When pellets of NaOH(s) are added to a flask of water, it is observed that the temperature of the water increases as the pellets dissolve. Which of the following claims about the observed dissolution of NaOH(s) in water is most accurate?",
+    "responses": {
+      "1": "It is an endothermic process because heat energy is absorbed by the water as the NaOH(s) dissolves in it.",
+      "2": "It is an endothermic process because heat energy is released by the water as the NaOH(s) dissolves in it.",
+      "3": "It is an exothermic process because heat energy is absorbed by the water as the NaOH(s) dissolves in it.",
+      "4": "It is an exothermic process because heat energy is released by the water as the NaOH(s) dissolves in it.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "An advertisement for a commercial hand warmer claims that the hand warmer works because a chemical reaction in the hand warmer draws out the body's own natural heat, causing a warming effect. Which of the following states the accuracy of the claim in the advertisement and best provides a correct scientific justification of the claim?",
+    "responses": {
+      "1": "The advertisement's claim is inaccurate because heat flowing from the hands to the warmer would only happen if the chemical reaction was endothermic, which would cause the hands to feel colder.",
+      "2": "The advertisement's claim is inaccurate because heat flowing from the hands to the warmer would only happen if the chemical reaction was exothermic, which would cause the hands to feel colder.",
+      "3": "The advertisement's claim is accurate because heat flowing from the hands to the warmer would only happen if the chemical reaction was endothermic, which would cause the hands to feel warmer.",
+      "4": "The advertisement's claim is accurate because heat flowing from the hands to the warmer would only happen if the chemical reaction was exothermic, which would cause the hands to feel warmer.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "When 50.0 g of a metal at 100.0°C is placed into 100.0 g of water at 25.0°C, the final temperature of the system is 30.0°C Assuming no heat loss to the surroundings and that the specific heat capacity of water is 4.18 J/g.°C, calculate the specific heat capacity of the metal. (Assume the metal and water reach thermal equilibrium.)",
+    "responses": {
+      "1": "0.60 J/g.°C",
+      "2": "0.83 J/g.°C",
+      "3": "1.05 J/g.°C",
+      "4": "2.50 J/g.°C",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Reactions 1 and 2 can be manipulated to produce reaction 3.\nReaction 1: H2(g) + 1/2 O2(g) → H2O(l)\nReaction 2: H2(g) + O2(g) → H2O2(aq)\nReaction 3: 2 H2O2(aq) → 2 H2O(l) + O2(g)\nWhat is the value of ΔH for reaction 2.",
+    "responses": {
+      "1": "-370 kJ/mol",
+      "2": "-185 kJ/mol",
+      "3": "85 kJ/mol",
+      "4": "185 kJ/mol",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A certain reaction proceeds slowly at room temperature because it has a high activation energy. A catalyst is added, and the reaction rate increases significantly. Which of the following statements best describes the role of the catalyst in this reaction?",
+    "responses": {
+      "1": "The catalyst increases the concentration of reactants by providing additional reactant molecules.",
+      "2": "The catalyst increases the temperature of the reaction, thereby increasing the reaction rate.",
+      "3": "The catalyst changes the equilibrium position to favor the products, increasing the yield.",
+      "4": "The catalyst lowers the activation energy by stabilizing the transition state, allowing more reactant molecules to reach it.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following statements about Hess's Law is correct?",
+    "responses": {
+      "1": "Hess's Law can only be applied to exothermic reactions",
+      "2": "The total enthalpy change for a reaction is independent of the path taken",
+      "3": "Enthalpy changes must be measured experimentally for every reaction step",
+      "4": "Hess's Law states that entropy is conserved in chemical reactions",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET A An equimolar mixture of SO2 and O2 is placed in a rigid container at 298K. The initial pressure in the container is 0.20atm. A catalyst is added to the mixture, and the reaction represented below occurs. 2SO2 + O2 → 2SO3 ΔH = -200kJ/mol. Based on the bond energies given in the table and the value of ΔH*, which of the following is the best estimate for the energy of one of the sulfur-oxygen bonds in SO3?",
+    "responses": {
+      "1": "403 kJ/mol",
+      "2": "470 kJ/mol",
+      "3": "880 kJ/mol",
+      "4": "1410 kJ/mol",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET A A student reacts Mg(s) with HCl(aq) to determine the value of ΔH° for the reaction represented by the following equation. Mg(s) + 2 HCl(aq) → MgCl2(aq) + H2(g). The student conducts a second trial and uses the same mass of Mg(s) but 500. mL of 1.0 M HCl, which of the following will occur?",
+    "responses": {
+      "1": "The value of the calculated ΔH° will increase.",
+      "2": "The temperature change of the solution will be less than 15.1K",
+      "3": "The temperature change of the solution will be approximately 25K",
+      "4": "The temperature change of the solution will be 15.1K",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Given the following reactions and their enthalpy changes:\nC(s) + O2(g) → CO2(g) ΔH = -393.5 kJ\n2 CO(g) + O2(g) → 2 CO2(g) ΔH = -566.0 kJ\nC(s) + 1/2 O2(g) → CO(g) ΔH = -110.5 kJ\nCalculate the enthalpy change ΔH for the reaction: 2 CO(g) → C(s) + CO2(g)",
+    "responses": {
+      "1": "+172.5 kJ",
+      "2": "-172.5 kJ",
+      "3": "-283.0 kJ",
+      "4": "+283.0 kJ",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Given the following reactions and their enthalpy changes:\nC(s) + O2(g) → CO2(g) ΔH = -393.5 kJ\n2 H2(g) + O2(g) → 2 H2O(l) ΔH = -571.6 kJ\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l) ΔH = -890.3 kJ\nCalculate the enthalpy change ΔH for the reaction: C(s) + 2 H2(g) → CH4(g)",
+    "responses": {
+      "1": "-74.8 kJ",
+      "2": "+74.8 kJ",
+      "3": "-890.3 kJ",
+      "4": "+890.3 kJ",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "How much heat (in kJ) is required to melt 25.0 g of ice at 0.0°C and then raise the temperature of the resulting water to 50.0°C? Given: Molar mass of water = 18.0 g/mol. Heat of fusion of ice, ΔH_fus = 6.01 kJ/mol. Specific heat capacity of liquid water, c = 4.18 J/g.°C",
+    "responses": {
+      "1": "10.2 kJ",
+      "2": "13.6 kJ",
+      "3": "16.0 kJ",
+      "4": "20.0 kJ",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET A A student performs an experiment on samples of two unknown liquids. Each of the samples, which have the same mass, are placed into identical insulated cups. Identical masses of ice are added to each sample, and the ice melts completely. The student collects the information shown in the table. Which of the following is correct?",
+    "responses": {
+      "1": "Sample X and sample Z were of the same substance, but the volume of sample X was greater than that of sample Z",
+      "2": "Sample X and sample Z were of the same substance, but the specific heat of sample X was less than that of sample Z",
+      "3": "Sample X and sample Z were of different substances, but the amount of energy needed to melt the ice in sample X was greater than in sample Z.",
+      "4": "Sample X and sample Z were of different substances, and the specific heat of sample X was less than sample Z.",
+      "5": null
+    },
+    "answer": 4
+  },
+
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B Which of the following best explains why the reactions represented in the table are exothermic?",
+    "responses": {
+      "1": "The energy released in forming the bonds in the products is less than the energy required to break the bonds in the reactants.",
+      "2": "The energy released in forming the bonds in the products is more than the energy required to break the bonds in the reactants.",
+      "3": "The number of bonds in the product molecules is less than the number of bonds in the reactant molecules.",
+      "4": "The number of bonds in the product molecules is more than the number of bonds in the reactant molecules.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "2CO(g) + C(g) → C3O2(g) ΔH° = 127.3 kJ/molrxn\n\nThe equation shown above represents an endothermic reaction between CO(g) and C(g). What is the amount of heat absorbed when 1.00 mol of CO(g) reacts with an excess of C(g)?",
+    "responses": {
+      "1": "31.8 kJ",
+      "2": "63.7 kJ",
+      "3": "127.3 kJ",
+      "4": "254.6 kJ",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Inside a calorimeter, 100.0 mL of 1.0 M hydrocyanic acid (HCN), a weak acid, and 100.0 mL of 0.50 M sodium hydroxide are mixed. The temperature of the mixture rises from 21.5°C to 28.5°C. The specific heat of the mixture is approximately 4.2 J/g°C, and the density is identical to that of water. What is the approximate enthalpy change for the reaction?",
+    "responses": {
+      "1": "1.5 kJ",
+      "2": "2.9 kJ",
+      "3": "5.9 kJ",
+      "4": "11.8 kJ",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B A pure solid substance is heated strongly. It first melts into a liquid, then boils and becomes a gas. Which of the following heating curves correctly shows the relationship between temperature and heat added?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B The cooling curve for a pure substance as it changes from a liquid to a solid is shown above. The solid and the liquid coexist at",
+    "responses": {
+      "1": "point P only",
+      "2": "point R only",
+      "3": "all points on the curve between Q and S",
+      "4": "all points on the curve between R and T",
+      "5": "no point on the curve"
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B The phase diagram for a pure substance is shown above. Which point on the diagram corresponds to the equilibrium between the solid and liquid phases at the normal melting point?",
+    "responses": {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "D",
+      "5": "E"
+    },
+    "answer": 3
+  },
+  {
+    "question": "C2H4(g) + 3 O2(g) → 2 CO2(g) + 2 H2O(g)\n\nFor the reaction of ethylene represented above, ΔH is -1,323 kJ. What is the value of ΔH if the combustion produced liquid water H2O(l), rather than water vapor H2O(g)? (ΔH for the phase change H2O(g) → H2O(l) is -44 kJ mol^-1.)",
+    "responses": {
+      "1": "-1,235 kJ",
+      "2": "-1,279 kJ",
+      "3": "-1,323 kJ",
+      "4": "-1,367 kJ",
+      "5": "-1,411 kJ"
+    },
+    "answer": 5
+  },
+  {
+    "question": "A 10. g cube of copper at a temperature T1 is placed in an insulated cup containing 10. g of water at a temperature T2. If T1 > T2, which of the following is true of the system when it has attained thermal equilibrium? (The specific heat of copper is 0.385 J/(g.°C) and the specific heat of water is 4.18 J/(g.°C).)",
+    "responses": {
+      "1": "The temperature of the copper changed more than the temperature of the water.",
+      "2": "The temperature of the water changed more than the temperature of the copper.",
+      "3": "The temperature of the water and the copper changed by the same amount.",
+      "4": "The relative temperature changes of the copper and the water cannot be determined without knowing T1 and T2.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "3 C2H2(g) → C6H6(g)\n\nWhat is the standard enthalpy change, ΔH°, for the reaction represented above? (ΔH°f of C2H2(g) is 230 kJ mol^-1; ΔH°f of C6H6(g) is 83 kJ mol^-1.)",
+    "responses": {
+      "1": "-607 kJ",
+      "2": "-147 kJ",
+      "3": "-19 kJ",
+      "4": "+19 kJ",
+      "5": "+773 kJ"
+    },
+    "answer": 1
+  },
+  {
+    "question": "AgNO3(aq) + NaCl(aq) → AgCl(s) + NaNO3(aq)\n\nIn an experiment a student mixes a 50.0 mL sample of 0.100 M AgNO3(aq) with a 50.0 mL sample of 0.100 M NaCl(aq) at 20.0°C in a coffee-cup calorimeter. Which of the following is the enthalpy change of the precipitation reaction represented above if the final temperature of the mixture is 21.0°C? (Assume that the total mass of the mixture is 100. g and that the specific heat capacity of the mixture is 4.2 J/(g.°C))",
+    "responses": {
+      "1": "-84 kJ/molrxn",
+      "2": "-0.42 kJ/molrxn",
+      "3": "0.42 kJ/molrxn",
+      "4": "84 kJ/molrxn",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "A 50.0 g sample of Fe at 100°C is added to 500.0 mL of water at 35°C in a perfectly insulated container. Which of the following statements is true?",
+    "responses": {
+      "1": "The temperature of the water will decrease.",
+      "2": "The temperature change of the Fe will have the same magnitude as the temperature change of the water.",
+      "3": "The heat energy lost by the Fe will be less than the heat energy gained by the water.",
+      "4": "The heat energy lost by the Fe will be equal to the heat energy gained by the water.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "In an experiment, 30.0 g of ethane and 30.0 g of propanol are placed in separate reaction vessels. Each compound undergoes complete combustion with excess O2(g). Which of the following best compares the quantity of heat released in each combustion reaction?",
+    "responses": {
+      "1": "qethane < qpropanol",
+      "2": "qethane = qpropanol",
+      "3": "qethane > qpropanol",
+      "4": "The quantities of heat released in the combustions of ethane and propanol cannot be compared without knowing the specific heat capacity of the compounds.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A hot iron ball is dropped into a 200. g sample of water initially at 50.° C. If 8.4 kJ of heat is transferred from the ball to the water, what is the final temperature of the water? (The specific heat of water is 4.2 J/(g.°C).)",
+    "responses": {
+      "1": "40.0°C",
+      "2": "51°C",
+      "3": "60.0°C",
+      "4": "70.0°C",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Quantity that would be zero for a pure, perfect crystal at 0 K",
+    "responses": {
+      "1": "Activation energy",
+      "2": "Enthalpy of formation",
+      "3": "Entropy",
+      "4": "Gibbs free energy",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B The following three questions are based on this graph: refer to the following graph, which shows the heating curve for methane, CH4. How much energy is required to melt 64g of methane a 90K?",
+    "responses": {
+      "1": "0.24 kJ",
+      "2": "3.8 kJ",
+      "3": "33 kJ",
+      "4": "60. kJ",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 6 SET B The following three questions are based on this graph: refer to the following graph, which shows the heating curve for methane, CH4. Which of the following best explains why more energy is required for the process occurring at 100K than for the process occuring at 90K?",
+    "responses": {
+      "1": "Intermolecular attractions are completely overcome during vaporization.",
+      "2": "Intermolecular attractions in the solid phase are weaker than in the liquid phase.",
+      "3": "Electron clouds of methane molecules are less polarizable at lower temperatures.",
+      "4": "Vaporization involves a large increase in temperature.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "A student mixes a 10.0 mL sample of 1.0 M NaOH(aq) with a 10.0 mL sample of 1.0 M HCl(aq) in a polystyrene container. The temperature of the solutions before mixing was 20.0°C. If the final temperature of the mixture is 26.0°C, what is the experimental value of ΔH°rxn? (Assume that the solution mixture has a specific heat of 4.2 J/(g·K) and a density of 1.0 g/mL.)",
+    "responses": {
+      "1": "-50. kJ/molrxn",
+      "2": "-25 kJ/molrxn",
+      "3": "-5.0 × 10^4 kJ/molrxn",
+      "4": "-5.0 × 10^2 kJ/molrxn",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "The enthalpy of vaporization of water is 40.7 kJ/mol. Which of the following best explains why the enthalpy of vaporization of methane is less than that of water?",
+    "responses": {
+      "1": "Methane does not exhibit hydrogen bonding, but water does.",
+      "2": "Methane has weaker dispersion forces.",
+      "3": "Methane has a smaller polar mass.",
+      "4": "Methane has a much lower density.",
+      "5": null
+    },
+    "answer": 1
+  }
+]

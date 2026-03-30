@@ -1,0 +1,39 @@
+Convert this to a json file. Give me the file so i can download it 
+The JSON must follow this exact structure:
+{
+  "question": "The question text",
+  "responses": {
+    "1": "First choice",
+    "2": "Second choice",
+    "3": "Third choice",
+    "4": "Fourth choice",
+    "5": "Fifth choice" or null
+  },
+  "answer": 1
+}
+
+Include the FULL question always, there can be multiple sentences. Do not include the question number in the question text. Example:
+"A student measures the mass of a sample of a metallic element, M. Then the student heats the sample in air, where it completely reacts to form the compound MO. The student measures the mass of the compound that was formed.
+
+If there is context before the actual question statement, include it as part of the question as well.
+For example, if there is a chemical equation like: "CO2(g) + 2 LiOH(s) → Li2CO3(aq) + H2O(l)", include it
+in the question if it is needed to answer the question and IS NOT an option itself.
+
+Do not include the source or any citations.
+DO NOT MODIFY ANY TEXT unless: 
+1. When you need to write parenthesis, do not include buffer spaces inside of them. 
+2. DO NOT INCLUDE a, b, c, d labels, just enter the answers
+3. For powers, use the carrot ^ when it is obviously needed, but NOT for chemicals, only numerical values
+4. Do NOT use \u or any unicode sequences. \n is ok.
+
+For example: Ca2+ should not have a carrot, and answer choice being 3*10^-4 should have power
+
+if there looks like there would be an image, do not worry about it and just include the text.
+If the answer options or there is context, needed, are images/some form that you cannot process, just leave then as "MANUAL UPLOAD NEEDED FROM UNIT X SET X"
+The corresponding unit and set is provided at the bottom of this prompt, replace "X" with the correct unit and set.
+
+Additionally, if this is true and/or the question requires an image or table that needs to be screenshotted to upload instead of through text, include "MANUAL UPLOAD NEEDED FROM UNIT X SET X" before the beginning of the question as part of the text.
+
+If there is a weird table that would seem difficult to display with text, please just don't include the table and  include MANUAL UPLOAD NEEDED FROM UNIT X SET X.
+
+This document is UNIT 3 SET B

@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Which of the following conditions would result in a reaction being spontaneous at high temperatures but non spontaneous at low temperatures?",
+    "responses": {
+      "1": "ΔH < 0 ΔS < 0",
+      "2": "ΔH > 0, ΔS < 0",
+      "3": "ΔH > 0, ΔS > 0",
+      "4": "ΔH < 0, ΔS > 0",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A reaction has a ΔH = +40.0 kJ/mol and ΔS = +125 J/mol·K\nAt what temperature does the reaction become spontaneous?",
+    "responses": {
+      "1": "160 K",
+      "2": "320 K",
+      "3": "400 K",
+      "4": "600 K",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Of the following reactions, which involves the largest decrease in entropy?",
+    "responses": {
+      "1": "CaCO3(s) → CaO(s) + CO2(g)",
+      "2": "2 CO(g) + O2(g) → 2 CO2(g)",
+      "3": "Pb(NO3)2(s) + 2 KI(s) → PbI2(s) + 2 KNO3(s)",
+      "4": "C3H8(g) + 5 O2(g) → 3 CO2(g) + 4 H2O(g)",
+      "5": "4 La(s) + 3 O2(g) → 2 La2O3(s)"
+    },
+    "answer": 5
+  },
+  {
+    "question": "AlF6^3- + 3e- → Al + 6 F-\nWhich of the following occurs in the reaction?",
+    "responses": {
+      "1": "AlF6^3- is reduced at the cathode.",
+      "2": "Al is oxidized at the anode.",
+      "3": "Aluminum is converted from the -3 oxidation state to the 0 oxidation state.",
+      "4": "F- acts as a reducing agent.",
+      "5": "F- is reduced at the cathode."
+    },
+    "answer": 3
+  },
+  {
+    "question": "The standard free energy change for a reaction is ΔG° = +15.0 kJ/mol at 298 K. What does this imply about the equilibrium constant K?",
+    "responses": {
+      "1": "K > 1",
+      "2": "K = 1",
+      "3": "K < 1",
+      "4": "K is negative",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A steady current of 10 amperes is passed through an aluminum-production cell for 15 minutes.\nWhich of the following is the correct expression for calculating the number of grams of aluminum produced? (1 faraday = 96,500 coulambs)",
+    "responses": {
+      "1": "(10)(15)(96,500)/(27)(60) g",
+      "2": "(10)(15)(27)/(60)(96,500) g",
+      "3": "(10)(15)(60)(27)/(96,500)(3) g",
+      "4": "(96,500)(27)/(10)(15)(60)(3) g",
+      "5": "(27)(3)/(96,500)(10)(15)(60) g"
+    },
+    "answer": 3
+  },
+  {
+    "question": "A certain redox reaction has an E°cell = +1.10 V and involves 3 electrons transferred.\nWhat is the standard free energy change ΔG°?",
+    "responses": {
+      "1": "-95.3 kJ",
+      "2": "-225.0 kJ",
+      "3": "-318.4 kJ",
+      "4": "-460.2 kJ",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A\nWhen solid NHSCN is mixed with solid Ba(OH)2 in a closed container, the temperature drops and a gas is produced.\nWhich of the following indicates the correct signs for ΔG, ΔH, and ΔS for the process?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "5": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A"
+    },
+    "answer": 3
+  },
+  {
+    "question": "An electric current of 1.00 ampere is passed through an aqueous solution of Ni(NO3)2.\nHow long will it take to plate out exactly 1.00 mol of nickel metal, assuming 100 percent current efficiency?\n(1 faraday = 96,500 coulombs = 6.02 x 10^23 electrons)",
+    "responses": {
+      "1": "386000 sec",
+      "2": "193000 sec",
+      "3": "96500 sec",
+      "4": "48200 sec",
+      "5": "24100 sec"
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following must be true for a reaction for which the activation energy is the same for both the forward and the reverse reactions?",
+    "responses": {
+      "1": "A catalyst is present.",
+      "2": "The reaction order can be obtained directly from the balanced equation.",
+      "3": "The reaction order is zero.",
+      "4": "Delta H for the reaction is zero.",
+      "5": "Delta S for the reaction is zero."
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A\nWhen solid ammonium chloride, NH4Cl(s), is added to water at 25°C, it dissolves and the temperature of the solution decreases.\nWhich of the following is true for the values of ΔH and ΔS for the dissolving process?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A",
+      "5": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A"
+    },
+    "answer": 2
+  },
+  {
+    "question": "Arrange the following substances in order of increasing entropy.",
+    "responses": {
+      "1": "CO2(s) < H2O(l) < N2(l) < N2(g)",
+      "2": "N2(g) < CO2(s) < N2(l) < H2O(l)",
+      "3": "H2O(l) < CO2(s) < N2(l) < N2(g)",
+      "4": "CO2(s) < N2(l) < H2O(l) < N2(g)",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Cl2(g) + 2 I-(aq) → 2 Cl-(aq) + I2(aq)\nWhich of the following best accounts for the fact that a galvanic cell based on the reaction represented above will generate electricity?",
+    "responses": {
+      "1": "Cl2 can easily lose two electrons.",
+      "2": "Cl2 is a stronger oxidizing agent than I2.",
+      "3": "I atoms have more electrons than do atoms of Cl.",
+      "4": "I- is a more stable species than I2.",
+      "5": "I(s) is more soluble than Cl2(g)."
+    },
+    "answer": 2
+  },
+  {
+    "question": "In a galvanic cell, as the reaction quotient (Q) approaches the equilibrium constant (K), what happens to the cell voltage?",
+    "responses": {
+      "1": "The cell voltage remains constant provided the temperature is held constant",
+      "2": "The cell voltage decreases and reaches zero at equilibrium",
+      "3": "The cell voltage increase since the reaction becomes more spontaneous",
+      "4": "The cell voltage becomes negative once the Q exceeds K, signifying a sudden shift in the thermodynamic favorability",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following conclusions is best supported by the evidence that electroplating involves the use of an electrolytic cell?",
+    "responses": {
+      "1": "The process generates current",
+      "2": "The process requires an external voltage source",
+      "3": "The process is thermodynamically favored",
+      "4": "The process occurs in a galvanic cell",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "In a galvanic cell, if the concentration of the reactants is increased, what happens to the cell voltage compared to its standard state?",
+    "responses": {
+      "1": "Remains the same",
+      "2": "Becomes zero",
+      "3": "Increases",
+      "4": "Decreases",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "For the deposition of silver via the reaction Ag+ + e- → Ag(s) how many coulombs of charge are required to deposit 0.50 moles of silver?",
+    "responses": {
+      "1": "Approximately 48250 coulombs",
+      "2": "Approximately 193000 coulombs",
+      "3": "Approximately 96500 coulombs",
+      "4": "Approximately 4825 coulombs",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Given ΔG° = -nFE°, for a reaction with n = 2 moles of electrons and E° = 1.5 V, what is ΔG° in kJ?",
+    "responses": {
+      "1": "291 KJ",
+      "2": "145.5 KJ",
+      "3": "-145.5 KJ",
+      "4": "-291 KJ",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET A\nAccording to the standard reduction potentials given above, what is the standard cell potential for the reaction represented below?\n3 Ag+(aq) + Al(s) → 3 Ag(s) + Al3+(aq)",
+    "responses": {
+      "1": "-1.74 V",
+      "2": "-0.86 V",
+      "3": "+1.74 V",
+      "4": "+2.46 V",
+      "5": "+4.06 V"
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is an example of a condition that would make a voltaic cell's voltage drop to zero?",
+    "responses": {
+      "1": "Q = 0",
+      "2": "Q < K",
+      "3": "Q = K",
+      "4": "Q > K",
+      "5": null
+    },
+    "answer": 3
+  },
+
+  {
+    "question": "Which of the following equations represents a reaction for which the standard entropy change is positive (ΔS° > 0)?",
+    "responses": {
+      "1": "3O2(g) → 2O3(g)",
+      "2": "2H2(g) + O2(g) → 2H2O(l)",
+      "3": "CaCO3(s) → CaO(s) + CO2(g)",
+      "4": "I2(g) + 2K(s) → 2KI(s)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "As a sample of KNO3(s) is stirred into water at 25°C, the compound dissolves endothermically. Which of the following best helps to explain why the process is thermodynamically favorable at 25°C?",
+    "responses": {
+      "1": "All endothermic processes are thermodynamically favorable.",
+      "2": "Stirring the solution during dissolution adds the energy needed to drive an endothermic process.",
+      "3": "Dissolving the salt decreases the enthalpy of the system.",
+      "4": "Dissolving the salt increases the entropy of the system.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "A student observes that the equilibrium constant for a reaction is greater than 1.0 at temperatures below 500 K but less than 1.0 at temperatures above 500 K. What can the student conclude about the values of ΔH and ΔS for the reaction? (Assume that ΔH and ΔS are independent of temperature.)",
+    "responses": {
+      "1": "ΔH > 0 and ΔS > 0",
+      "2": "ΔH > 0 and ΔS < 0",
+      "3": "ΔH < 0 and ΔS > 0",
+      "4": "ΔH < 0 and ΔS < 0",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "2H2O2(aq) → 2H2O(l) + O2(g), E° = 0.55 V\nThe equation and standard cell potential for the decomposition of H2O2(aq) in acidic solution at 25°C is given above. The reduction half-reactions for the process are listed below.\nO2(g) + 4H+(aq) + 4e- → 2H2O(l), E° = 1.23 V\nO2(g) + 2H+(aq) + 2e- → H2O2(aq), E° = ?\nWhat is the standard reduction potential for the half-reaction represented below?\nO2(g) + 2H+(aq) + 2e- → H2O2(aq), E = ?",
+    "responses": {
+      "1": "1.78 V",
+      "2": "0.68 V",
+      "3": "+0.68 V",
+      "4": "+1.78 V",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is true for the decomposition of H2O2(aq) as mentioned in the above question?",
+    "responses": {
+      "1": "ΔG° > 0 and Keq > 1",
+      "2": "ΔG° > 0 and Keq < 1",
+      "3": "ΔG° < 0 and Keq > 1",
+      "4": "ΔG° < 0 and Keq < 1",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "When water is added to a mixture of Na2O2(s) and S(s), a redox reaction occurs, as represented by the equation below.\n2Na2O2(s) + S(s) + 2H2O(l) → 4NaOH(aq) + SO2(aq), ΔH°298 = -610 kJ/molrxn, ΔS° = -7.3 J/(K*molrxn)\nWhich of the following statements about the thermodynamic favorability of the reaction at 298 K is correct?",
+    "responses": {
+      "1": "It is thermodynamically unfavorable.",
+      "2": "It is thermodynamically favorable and is driven by ΔS only.",
+      "3": "It is thermodynamically favorable and is driven by ΔH only.",
+      "4": "It is thermodynamically favorable and is driven by both ΔH and ΔS.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "The reaction represented below goes essentially to completion. The reaction takes place in a rigid, insulated vessel that is initially at 600 K.\nCH3OH(g) → CO(g) + 2H2(g), ΔH° = +91 kJ/molrxn\nWhat can be inferred about ΔS° for the reaction at 600 K?",
+    "responses": {
+      "1": "It must be positive, since the reaction is thermodynamically unfavorable at 600 K.",
+      "2": "It must be negative, since there are more moles of products than reactants.",
+      "3": "It must be positive, since ΔG° is negative and ΔH° is positive.",
+      "4": "It must be negative, since ΔG° is positive and ΔH° is positive.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nBased on the information in the table below, which of the following shows the cell potential and the Gibbs free energy change for the overall reaction that occurs in a standard galvanic cell?",
+    "responses": {
+      "1": "E°cell = +1.63 ΔG° = -157",
+      "2": "E°cell = +1.63, ΔG° = -944",
+      "3": "E°cell = +5.63, ΔG° = -543",
+      "4": "E°cell = +5.63, ΔG° = -3262",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nThe process of dissolution of NaCl(s) in H2O(l) is represented in the diagram above. Which of the following summarizes the signs of ΔH° and ΔS° for each part of the dissolution process?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nThe standard reduction potentials for the half-reactions related to the galvanic cell represented above are listed in the table below. Which of the following gives the value of E°cell for the cell?",
+    "responses": {
+      "1": "E°cell = -1.50 V",
+      "2": "E°cell = -0.80 V",
+      "3": "E°cell = -0.02 V",
+      "4": "E°cell = +0.02 V",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "C(diamond) → C(graphite) ΔG° = -2.9 kJ/molrxn\nWhich of the following best explains why the reaction represented above is not observed to occur at room temperature?",
+    "responses": {
+      "1": "The rate of the reaction is extremely slow because of the relatively small value of ΔG° for the reaction.",
+      "2": "The entropy of the system decreases because the carbon atoms in graphite are less ordered than those in diamond.",
+      "3": "The reaction has an extremely large activation energy due to strong three-dimensional bonding among carbon atoms in diamond.",
+      "4": "The reaction does not occur because it is not thermodynamically favorable.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\n2FeO(s) ⇌ 2Fe(s) + O2(g) Keq = 1x10^-6 at 1000 K\nCO2(g) ⇌ C(s) + O2(g) Keq = 1x10^-32 at 1000 K\nThe formation of Fe(s) and O2(g) from FeO(s) is not thermodynamically favorable at room temperatures. In an effort to make the process favorable, C(s) is added to the FeO(s) at elevated temperatures. Based on the information above, which of the following gives the value of Keq and the sign of ΔG° for the reaction represented by the equation below at 1000 K.\n2FeO(s) + C(s) ⇌ 2Fe(s) + CO2(g)",
+    "responses": {
+      "1": "Keq = 1x10^-38, ΔG° Positive",
+      "2": "Keq = 1x10^-38, ΔG° Negative",
+      "3": "Keq = 1x10^26, ΔG° Positive",
+      "4": "Keq = 1x10^26, ΔG° Negative",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Li3N(s) + 2H2(g) ⇌ LiNH2(s) + 2LiH(s) ΔH° = -192 kJ/molrxn\nBecause pure H2 is a hazardous substance, safer and more cost effective techniques to store it as a solid for shipping purposes have been developed. One such method is the reaction represented above, which occurs at 200°C. Which of the following is the most likely reason that the reaction occurs at a significant rate only if the temperature of the reaction mixture is greater than 200°C?",
+    "responses": {
+      "1": "The reaction is exothermic.",
+      "2": "ΔS° for the reaction is negative.",
+      "3": "The reaction has a high activation energy.",
+      "4": "ΔG° < 0 when T < 200°C.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nWhich of the following substances would be the best choice for filling the salt bridge in the galvanic cell shown above and why?",
+    "responses": {
+      "1": "Distilled water, because it would avoid contaminating the solution in the half-cells.",
+      "2": "1.0 M HCl(aq), because it would acidify the solutions and catalyze the overall cell reaction.",
+      "3": "1.0 M CH3OH(aq), because it would increase the pH of the solutions and catalyze the overall cell reaction.",
+      "4": "1.0 M KNO3(aq), because the mobile ions would allow charge to flow between the half-cells.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nIn the galvanic cell shown above, the voltmeter connected across the electrodes shows a voltage of 0.52 V. Based on the standard reduction potentials given in the table below, which of the following is most likely the identity of the unknown element, X?",
+    "responses": {
+      "1": "Rh",
+      "2": "Bi",
+      "3": "In",
+      "4": "Zn",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nThe standard reduction potentials of the half-reactions associated with a galvanic cell are listed in the table above. Which of the following statements identifies the electrode that increases in mass as the cell operates, and correctly explains why?",
+    "responses": {
+      "1": "The Ag electrode, because Ag+(aq) in the solution is reduced to form Ag(s).",
+      "2": "The Ag electrode, because Ag has a greater molar mass than Ni has.",
+      "3": "The Ni electrode, because Ni is chemically more reactive than Ag is.",
+      "4": "The Ni electrode, because Ni2+(aq) is reduced at a faster rate than Ag+(aq) is.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nXY2 → X + Y2\nThe equation above represents the decomposition of a compound XY2. The diagram below shows two reaction profiles (path one and path two) for the decomposition of XY2. The reaction is thermodynamically favorable under standard conditions at 298 K. Therefore, the value of ΔS° for the reaction must be",
+    "responses": {
+      "1": "equal to zero",
+      "2": "equal to ΔH°/298 K",
+      "3": "greater than ΔH°/298 K",
+      "4": "less than ΔH°/298 K",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C\nAt 1.0 atm a sample of ice is heated to liquid water and then to water vapor. The heating curve is shown in the graph above. Which of the following lists the signs for the changes in enthalpy and entropy for the process corresponding to segment X, going from left to right?",
+    "responses": {
+      "1": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "2": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "3": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "4": "MANUAL UPLOAD NEEDED FROM UNIT 9 SET C",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following processes involves the greatest increase in entropy?",
+    "responses": {
+      "1": "SO3(g) + H2(g) → SO2(g) + H2O(g)",
+      "2": "N2(g) + 3H2(g) → 2NH3(g)",
+      "3": "Ag+(aq) + Cl-(aq) → AgCl(s)",
+      "4": "C2H2(g) + 2H2(g) → C2H6(g)",
+      "5": "MgSO3(s) → MgO(s) + SO2(g)"
+    },
+    "answer": 5
+  },
+  {
+    "question": "2H2(g) + O2(g) → 2H2O(g)\nFor the reaction represented above at 25°C, what are the signs of ΔH°, ΔS°, and ΔG°?",
+    "responses": {
+      "1": "+, +, +",
+      "2": "+, +, -",
+      "3": "+, -, -",
+      "4": "-, -, -",
+      "5": "-, -, +"
+    },
+    "answer": 4
+  }
+]

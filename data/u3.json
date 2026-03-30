@@ -1,0 +1,630 @@
+[
+  {
+    "question": "Which of the following gases deviates most from ideal behavior?",
+    "responses": {
+      "1": "He",
+      "2": "N2",
+      "3": "CO2",
+      "4": "NH3",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following substances exhibits hydrogen bonding?",
+    "responses": {
+      "1": "CH4",
+      "2": "H2S",
+      "3": "NH3",
+      "4": "CO2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "At the same temperature and pressure, which gas will have the highest rate of effusion?",
+    "responses": {
+      "1": "O2",
+      "2": "CO2",
+      "3": "CH4",
+      "4": "N2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following substances has the highest boiling point?",
+    "responses": {
+      "1": "CH4",
+      "2": "NH3",
+      "3": "H2O",
+      "4": "CO2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best explains why water has a higher boiling point than methane?",
+    "responses": {
+      "1": "Water has a higher molecular weight.",
+      "2": "Water molecules form hydrogen bonds.",
+      "3": "Methane molecules are polar.",
+      "4": "Methane has stronger dispersion forces.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following statements about the boiling points of noble gases is correct?",
+    "responses": {
+      "1": "Boiling points decrease with increasing atomic mass.",
+      "2": "Boiling points are the same for all noble gases.",
+      "3": "Boiling points increase with increasing atomic mass due to stronger London dispersion forces.",
+      "4": "Boiling points are unaffected by atomic mass.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following compounds has the strongest intermolecular forces?",
+    "responses": {
+      "1": "CH4",
+      "2": "CO2",
+      "3": "NH3",
+      "4": "H2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following substances is expected to have the highest vapor pressure at room temperature?",
+    "responses": {
+      "1": "H2O",
+      "2": "CH3OH",
+      "3": "CH4",
+      "4": "NH3",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best explains why ionic compounds have high melting points?",
+    "responses": {
+      "1": "They have strong covalent bonds.",
+      "2": "They have strong electrostatic attractions between ions.",
+      "3": "They have weak intermolecular forces.",
+      "4": "They have high vapor pressures.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following substances is most likely to be a gas at room temperature?",
+    "responses": {
+      "1": "NaCl",
+      "2": "H2O",
+      "3": "CO2",
+      "4": "C6H12O6",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following substances has the lowest boiling point?",
+    "responses": {
+      "1": "H2O",
+      "2": "CH3OH",
+      "3": "CH4",
+      "4": "NH3",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best explains why metals are good conductors of electricity?",
+    "responses": {
+      "1": "They have delocalized electrons that can move freely.",
+      "2": "They have tightly bound electrons.",
+      "3": "They have high ionization energies.",
+      "4": "They have low melting points.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following substances exhibits dipole-dipole interactions?",
+    "responses": {
+      "1": "CO2",
+      "2": "CH4",
+      "3": "HCl",
+      "4": "O2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best explains why diamond is hard?",
+    "responses": {
+      "1": "It has metallic bonding.",
+      "2": "It has a network of covalent bonds.",
+      "3": "It has ionic bonding.",
+      "4": "It has weak van der Waals forces.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following substances is most likely to be soluble in water?",
+    "responses": {
+      "1": "CCl4",
+      "2": "CH3OH",
+      "3": "CH4",
+      "4": "O2",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains why ice floats on water?",
+    "responses": {
+      "1": "Ice has a higher density than water.",
+      "2": "Ice has a lower density than water due to hydrogen bonding creating an open lattice structure.",
+      "3": "Water molecules are heavier than ice molecules.",
+      "4": "Ice is more polar than water.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following substances has the highest surface tension?",
+    "responses": {
+      "1": "CH4",
+      "2": "H2O",
+      "3": "CO2",
+      "4": "NH3",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best explains why oil and water do not mix?",
+    "responses": {
+      "1": "Oil is polar and water is nonpolar.",
+      "2": "Oil is nonpolar and water is polar.",
+      "3": "Both oil and water are nonpolar.",
+      "4": "Both oil and water are polar.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following substances has the strongest London dispersion forces?",
+    "responses": {
+      "1": "He",
+      "2": "Ne",
+      "3": "Ar",
+      "4": "Xe",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following best explains why ionic compounds conduct electricity when molten but not in solid form?",
+    "responses": {
+      "1": "Ions are free to move in the molten state but not in the solid state.",
+      "2": "Electrons are free to move in the solid state but not in the molten state.",
+      "3": "Ionic compounds decompose when molten.",
+      "4": "Ionic compounds are covalently bonded in the solid state.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a balanced net ionic equation for the reaction between aqueous solutions of silver nitrate and sodium chloride?",
+    "responses": {
+      "1": "Ag+(aq) + Cl-(aq) -> AgCl(s)",
+      "2": "AgNO3(aq) + NaCl(aq) -> AgCl(s) + NaNO3(aq)",
+      "3": "Ag+(aq) + NO3-(aq) + Na+(aq) + Cl-(aq) -> AgCl(s) + Na+(aq) + NO3-(aq)",
+      "4": "AgCl(s) -> Ag+(aq) + Cl-(aq)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which observation indicates a chemical reaction has occurred?",
+    "responses": {
+      "1": "A solid dissolves in water.",
+      "2": "A solution changes color upon mixing.",
+      "3": "A liquid evaporates.",
+      "4": "A gas condenses into a liquid.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "What is the oxidation number of sulfur in H2SO4?",
+    "responses": {
+      "1": "+4",
+      "2": "+6",
+      "3": "+2",
+      "4": "0",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which species is oxidized in the reaction: 2Al + 3Cl2 -> 2AlCl3?",
+    "responses": {
+      "1": "Al",
+      "2": "Cl2",
+      "3": "AlCl3",
+      "4": "None",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "In a redox reaction, the substance that gains electrons is:",
+    "responses": {
+      "1": "Oxidized",
+      "2": "Reduced",
+      "3": "The oxidizing agent",
+      "4": "Both B and C",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is a strong electrolyte?",
+    "responses": {
+      "1": "CH3COOH",
+      "2": "NH3",
+      "3": "NaCl",
+      "4": "H2O",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "What is the net ionic equation for the reaction between hydrochloric acid and sodium hydroxide?",
+    "responses": {
+      "1": "HCl(aq) + NaOH(aq) -> NaCl(aq) + H2O(l)",
+      "2": "H+(aq) + OH-(aq) -> H2O(l)",
+      "3": "Na+(aq) + Cl-(aq) -> NaCl(aq)",
+      "4": "H+(aq) + Cl-(aq) + Na+(aq) + OH-(aq) -> NaCl(aq) + H2O(l)",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following compounds is insoluble in water?",
+    "responses": {
+      "1": "NaNO3",
+      "2": "KCl",
+      "3": "BaSO4",
+      "4": "NH4Br",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "In the reaction: Zn + Cu2+ -> Zn2+ + Cu, which species is the reducing agent?",
+    "responses": {
+      "1": "Zn",
+      "2": "Cu2+",
+      "3": "Zn2+",
+      "4": "Cu",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following reactions is a precipitation reaction?",
+    "responses": {
+      "1": "NaCl(aq) + AgNO3(aq) -> AgCl(s) + NaNO3(aq)",
+      "2": "HCl(aq) + NaOH(aq) -> NaCl(aq) + H2O(l)",
+      "3": "Zn(s) + CuSO4(aq) -> ZnSO4(aq) + Cu(s)",
+      "4": "C6H12O6(aq) + O2(g) -> CO2(g) + H2O(l)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a redox reaction?",
+    "responses": {
+      "1": "HCl(aq) + NaOH(aq) -> NaCl(aq) + H2O(l)",
+      "2": "AgNO3(aq) + NaCl(aq) -> AgCl(s) + NaNO3(aq)",
+      "3": "Zn(s) + H2SO4(aq) -> ZnSO4(aq) + H2(g)",
+      "4": "BaCl2(aq) + Na2SO4(aq) -> BaSO4(s) + 2NaCl(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "What is the oxidation number of nitrogen in NO3-?",
+    "responses": {
+      "1": "+3",
+      "2": "+5",
+      "3": "+1",
+      "4": "-1",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a spectator ion in the reaction between HCl and NaOH?",
+    "responses": {
+      "1": "H+",
+      "2": "OH-",
+      "3": "Na+",
+      "4": "H2O",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following reactions represents a combination reaction?",
+    "responses": {
+      "1": "2H2(g) + O2(g) -> 2H2O(g)",
+      "2": "CaCO3(s) -> CaO(s) + CO2(g)",
+      "3": "Zn(s) + CuSO4(aq) -> ZnSO4(aq) + Cu(s)",
+      "4": "NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following compounds is a weak electrolyte?",
+    "responses": {
+      "1": "NaCl",
+      "2": "HCl",
+      "3": "CH3COOH",
+      "4": "KOH",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by the following equation? 2KClO3 -> 2KCl + 3O2",
+    "responses": {
+      "1": "Synthesis",
+      "2": "Decomposition",
+      "3": "Single displacement",
+      "4": "Double displacement",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following ions is most likely to act as an oxidizing agent?",
+    "responses": {
+      "1": "Fe2+",
+      "2": "Cl-",
+      "3": "MnO4-",
+      "4": "Na+",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "When calcium carbonate decomposes upon heating, what gas is released?",
+    "responses": {
+      "1": "Oxygen",
+      "2": "Carbon dioxide",
+      "3": "Carbon monoxide",
+      "4": "Nitrogen",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "In the reaction H2 + F2 -> 2HF which species is reduced?",
+    "responses": {
+      "1": "H2",
+      "2": "F2",
+      "3": "HF",
+      "4": "None",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following compounds is expected to be soluble in water?",
+    "responses": {
+      "1": "PbSO4",
+      "2": "Na2SO4",
+      "3": "AgCl",
+      "4": "BaSO4",
+      "5": null
+    },
+    "answer": 2
+  },
+
+  {
+    "question": "Solution: 0.1 M HC2H3O2(aq), 0.1 M KI(aq), 0.1 M CH3OH(aq). Of the three solutions listed in the table above, which one, if any, has the greatest electrical conductivity and why?",
+    "responses": {
+      "1": "0.1 M HC2H3O2(aq) because its molecules have the most atoms",
+      "2": "0.1 M KI(aq) because KI completely dissociates in water to produce ions",
+      "3": "0.1 M CH3OH(aq) because its molecules can form hydrogen bonds",
+      "4": "All three solutions have the same electrical conductivity because the concentrations are the same",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A gaseous air-fuel mixture in a sealed car engine cylinder has an initial volume of 600 mL at 1.0 atm. To prepare for ignition of the fuel, a piston moves within the cylinder, reducing the volume of the air-fuel mixture to 50 mL at constant temperature. Assuming ideal behavior, what is the new pressure of the air-fuel mixture?",
+    "responses": {
+      "1": "About 0.083 atm, because the initial volume of the gas mixture was 12 times larger than its final volume.",
+      "2": "About 12 atm, because the volume of the gas mixture decreased by a factor of 12.",
+      "3": "About 120. atm, because the intial volume of the gas mixture was 120 times larger than its final volume.",
+      "4": "About 550. atm, because the change in the volume of the gas mixture was 550. mL.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following methods is most appropriate to use to determine the number of different-colored components in a sample of black ink?",
+    "responses": {
+      "1": "Distillation at atmospheric pressure",
+      "2": "Elemental analysis to determine the mass ratio of C:H:N:O",
+      "3": "Column chromatography using a nonpolar stationary phase and water as the mobile phase",
+      "4": "Paper chromatography using different solvents with a range of polarities as the mobile phase.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B Based on the Maxwell-Boltzmann distributions at 300K shown above, which of the following gases could be represented by curve X?",
+    "responses": {
+      "1": "Br2(g)",
+      "2": "CH4(g)",
+      "3": "He(g)",
+      "4": "N2(g)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best explains what happens as photons of visible light are absorbed by dye molecules?",
+    "responses": {
+      "1": "Certain electrons in the dye molecule move to a higher energy level, with the difference in energy between the lower and higher energy levels being the same as the energy of the absorbed photons.",
+      "2": "Certain chemical bonds in the dye molecules begin to bend and stretch, with the difference in energy between the lower and higher vibrational states being the same as the energy of the absorbed photons.",
+      "3": "The dye molecules begin to rotate faster in certain modes, with the difference in energy between the lower and higher rotational states being the same as the energy of the absorbed photons.",
+      "4": "Certain covalent bonds in the dye molecules begin to break and re-form, with the bond energies of the bonds being the same as the energy of the absorbed photons.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "A sealed 10.0 L flask at 400 K contains equimolar amounts of ethane and propane in gaseous form. Which of the following statements concerning the average molecular speed of ethane and propane is true?",
+    "responses": {
+      "1": "The average molecular speed of ethane is less than the average molecular speed of propane.",
+      "2": "The average molecular speed of ethane is greater than the average molecular speed of propane.",
+      "3": "The average molecular speed of ethane is equal to the average molecular speed of propane.",
+      "4": "The average molecular speeds of ethane and propane cannot be compared without knowing the total pressure of the gas mixture.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Gas: F2, Volume (L): 10., Pressure (atm): 2.0, Temperature (K): 200. Gas: N2, Volume (L): 5.0, Pressure (atm): 4.0, Temperature (K): 200. Gas: O2, Volume (L): 4.0, Pressure (atm): 5.0, Temperature (K): 200. Which gas, if any, has the greatest density?",
+    "responses": {
+      "1": "F2",
+      "2": "N2",
+      "3": "O2",
+      "4": "All three samples have the same density",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Gas: F2, Volume (L): 10., Pressure (atm): 2.0, Temperature (K): 200. Gas: N2, Volume (L): 5.0, Pressure (atm): 4.0, Temperature (K): 200. Gas: O2, Volume (L): 4.0, Pressure (atm): 5.0, Temperature (K): 200. Which gas, if any, has molecules with the greatest average kinetic energy?",
+    "responses": {
+      "1": "F2",
+      "2": "N2",
+      "3": "O2",
+      "4": "All three samples have the same average kinetic energy",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Gas: F2, Volume (L): 10., Pressure (atm): 2.0, Temperature (K): 200. Gas: N2, Volume (L): 5.0, Pressure (atm): 4.0, Temperature (K): 200. Gas: O2, Volume (L): 4.0, Pressure (atm): 5.0, Temperature (K): 200. The number of moles of N2(g) is closest to which of the following?",
+    "responses": {
+      "1": "0.10 mol",
+      "2": "1.2 mol",
+      "3": "22 mol",
+      "4": "28 mol",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B A student was given samples of four different unknown liquids. The unknown liquids are propylamine, pentane, 2-propanol, and propanoic acid. The structures and molar masses of the compounds are shown in the table above. On the basis of this information, which of the following statements correctly identifies which compound, pentane or propanoic acid, has the higher boiling point and provides a valid justification?",
+    "responses": {
+      "1": "Pentane, because it has greater London dispersion forces than propanoic acid does",
+      "2": "Pentane, because it can form more hydrogen bonds per molecule than propanoic acid can",
+      "3": "Propanoic acid, because double bonds are harder to break than single bonds",
+      "4": "Propanoic acid, because it forms hydrogen bonds, whereas pentane does not",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B The two gas samples represented in the graph above are at the same temperature. Which of the following statements about the gases is correct?",
+    "responses": {
+      "1": "The molecules of gas Z have a higher average kinetic energy than the molecules of gas X",
+      "2": "There are fewer molecules in the sample of gas Z than in the sample of gas X",
+      "3": "Gas Z has a smaller molar mass than gas X",
+      "4": "Gas Z has a greater molar mass than gas X",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B A solid compound of a group 1 (alkali) metal and a group 17 (halogen) element dissolves in water. The diagram above represents one type of solute particle present in the solution. Which of the following identifies the solute particle and best helps explain how the solute particle interacts with water molecules?",
+    "responses": {
+      "1": "The particle is a negative ion, and the interactions are hydrogen bonds",
+      "2": "The particle is a negative ion, and the interactions are ion-dipole attractions",
+      "3": "The particle is a positive ion, and the interactions are ion-dipole attractions",
+      "4": "The particle is a positive ion, and the interactions are dipole-dipole attractions",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Electromagnetic radiation with a maximum wavelength of 540 nm (5.4*10^-7 m) is needed for the study of the photoelectric effect in potassium atoms. What is the approximate frequency that corresponds to this wavelength?",
+    "responses": {
+      "1": "1.8*10^-15 s^-1",
+      "2": "1.6*10^-2 s^-2",
+      "3": "1.9*10^6 s^-1",
+      "4": "5.6*10^14 s^-1",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B A student was given samples of four different unknown liquids: propylamine, pentane, 2-propanol, and propanoic acid. The structures and molar masses are shown in the table above. The student mixed samples of each of the four compounds with water. Only one of the four did not dissolve in water. Based on the structures of the molecules and the strengths and types of their intermolecular forces, the compound that did not dissolve is most likely",
+    "responses": {
+      "1": "propylamine",
+      "2": "pentane",
+      "3": "2-propanol",
+      "4": "propanoic acid",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B The diagram above represents a particle in aqueous solution. Which of the following statements about the particle is correct?",
+    "responses": {
+      "1": "The particle must be a cation because the negative end of each water molecule is pointed toward it.",
+      "2": "The particle must be an anion because the positive end of each water molecule is pointed toward it.",
+      "3": "The charge of the particle cannot be determined because water molecules have no net charge.",
+      "4": "The charge of the particle cannot be determined because the water molecules are arranged symmetrically and their partial charges cancel.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A student obtains a mixture of the liquids hexane and octane, which are miscible in all proportions. Compound: Hexane, Formula: C6H14, Boiling Point (C): 69, Density (g/mL): 0.66. Compound: Octane, Formula: C8H18, Boiling Point (C): 126, Density (g/mL): 0.70. Which of the following techniques would be best for separating the two components of the mixture, and why?",
+    "responses": {
+      "1": "Filtration, because the different densities of the liquids would allow one to pass through the filter paper while the other would not.",
+      "2": "Paper chromatography, because the liquids would move along the stationary phase at different rates owing to the difference in polarity of their molecules.",
+      "3": "Column chromatography, because the higher molar mass of octane would cause it to move down the column faster than hexane.",
+      "4": "Distillation, because the liquids would boil at different temperatures owing to the difference in strength of their intermolecular forces.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 3 SET B The diagram above shows thin-layer chromatograms of the same mixture of two compounds. Based on the chromatograms, which solvent would be most effective at separating the two compounds if the same stationary phase is used for column chromatography?",
+    "responses": {
+      "1": "Solvent A",
+      "2": "Solvent B",
+      "3": "Solvent C",
+      "4": "Solvent D",
+      "5": null
+    },
+    "answer": 3
+  }
+]

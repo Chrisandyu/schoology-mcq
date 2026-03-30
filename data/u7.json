@@ -1,0 +1,443 @@
+[
+  {
+    "question": "NH3 (g) was synthesized at 200°C in the presence of a powdered Os(s) catalyst, leading to the equilibrium system represented above. Which of the following changes would result in more NH3 in the mixture after equilibrium is reestablished?",
+    "responses": {
+      "1": "Decreasing the temperature",
+      "2": "Increasing the pressure",
+      "3": "Adding more NH3",
+      "4": "Removing the catalyst",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "A mixture of NO2(g) and N2O4(g) is placed in a glass tube and allowed to reach equilibrium at 70°C, as represented below. N2O4(g) ↔ 2 NO2(g) Kp = 3.0 at 70°C. If PN2O4 is 1.33 atm when the system is at equilibrium at 70°C what is PNO2?",
+    "responses": {
+      "1": "0.44 atm",
+      "2": "2.0 atm",
+      "3": "2.3 atm",
+      "4": "4.0 atm",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "N2O4(g) ↔ 2 NO2(g) Kp = 3.0 at 70°C. Which of the following best predicts how the partial pressures of the reacting species will be affected if a small amount of Ar(g) is added to the equilibrium mixture at constant volume?",
+    "responses": {
+      "1": "PNO2 will decrease and PN2O4 will increase.",
+      "2": "PNO2 will increase and PN2O4 will decrease.",
+      "3": "Both PNO2 and PN2O4 will decrease.",
+      "4": "No change will take place.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "The equilibrium system represented by the equation below initially contains equal concentrations of Cr2O72-(aq) and CrO42-(aq). Cr2O72-(aq) + 3 H2O(l) ⇌ 2 CrO42-(aq) + 2 H3O+(aq). Orange Yellow. Which of the following statements correctly predicts the result of adding a sample of 6.0 M NaOH(aq) to the system, and provides an explanation?",
+    "responses": {
+      "1": "The mixture will become more orange because OH- will oxidize the Cr in CrO42-(aq).",
+      "2": "The mixture will become more yellow because OH- will reduce the Cr in Cr2O72-(aq).",
+      "3": "The mixture will become more yellow because OH- will shift the equilibrium toward the products.",
+      "4": "The color of the mixture will not change because OH- does not appear in the equilibrium expression.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 7 SET A Based on the information below, which of the following expressions represents the equilibrium constant, K, for the reaction represented by the equation below? La3+ + CO32- ⇔ LaCO3+",
+    "responses": {
+      "1": "K = (K1)(Ka)(Kw)",
+      "2": "K = (K1)(Ka)/Kw",
+      "3": "K = K1/(Ka)(Kw)",
+      "4": "K = (K1)(Kw)/Ka",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Ag+(aq) + NH3(aq) ⇄ Ag(NH3)+(aq) Keq1 = 2.0*10^3. Ag(NH3)+(aq) + NH3(aq) ⇄ Ag(NH3)2+(aq) Keq2 = 8.0*10^3. Equal volumes of 0.1 M AgNO3(aq) and 2.0 M NH3(aq) are mixed and the reactions represented above occur. Which Ag species will have the highest concentration in the equilibrium system shown below, and why? Ag+(aq) + 2 NH3(aq) ⇄ Ag(NH3)2+(aq)",
+    "responses": {
+      "1": "Ag+(aq), because Keq3 = 4",
+      "2": "Ag+(aq), because Keq1 < Keq2",
+      "3": "Ag(NH3)2+(aq), because Keq3 = 1.6*10^7",
+      "4": "Ag(NH3)2+(aq), because Keq1 < Keq2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "NO(g) + CO2(g) ⇌ NO2(g) + CO(g). Which of the following changes will increase the amount of NO2(g) in the equilibrium system represented by the equation above?",
+    "responses": {
+      "1": "Removing CO(g) from the system",
+      "2": "Removing CO2(g) from the system",
+      "3": "Increasing the volume of the reaction vessel",
+      "4": "Decreasing the volume of the reaction vessel",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "2 BaO2(s) ⇌ 2 BaO(s) + O2(g) ΔH° = 162 kJ/mol_rxn. A sealed rigid vessel contains BaO2(s) in equilibrium with BaO(s) and O2(g) as represented by the equation above. Which of the following changes will increase the amount of BaO2(s) in the vessel?",
+    "responses": {
+      "1": "Removing a small amount of O2(g)",
+      "2": "Removing a small amount of BaO(s)",
+      "3": "Adding He gas to the vessel",
+      "4": "Lowering the temperature",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "The synthesis of CH3OH from CO and H2 is represented by the equation below: CO + 2 H2 → CH3OH ΔH < 0. Which of the following statements is true about the bond energies in this reaction?",
+    "responses": {
+      "1": "The energy absorbed as the bonds in the reactants are broken is greater than the energy released as the bonds in the products are formed.",
+      "2": "The energy released as the bonds in the reactants are broken is greater than the energy absorbed as the bonds in the products are formed.",
+      "3": "The energy released as the bonds in the reactants are broken is less than the energy absorbed as the bonds in the products are formed.",
+      "4": "The energy absorbed as the bonds in the reactants are broken is less than the energy released as the bonds in the products are formed.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Given reactions and their equilibrium constants: FeF2(s) ⇌ Fe2+(aq) + 2 F-(aq) K1 = 2*10^-6. F-(aq) + H+(aq) ⇌ HF(aq) K2 = 1*10^3. FeF2(s) + 2 H+(aq) ⇌ Fe2+(aq) + 2 HF(aq) K3 = ?. Is the reaction represented by the third equation thermodynamically favored?",
+    "responses": {
+      "1": "Thermodynamically favored, because K2 > 1",
+      "2": "Thermodynamically favored, because K3 > 1",
+      "3": "Not thermodynamically favored, because K1 < 1",
+      "4": "Not thermodynamically favored, because K3 < 1",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Ca(OH)2(s) ⇌ Ca2+(aq) + 2 OH-(aq) Ksp = 5.5*10^-6 at 298 K. The equilibrium in a saturated solution of Ca(OH)2 is represented above. In an experiment, a student places 5.0 g of Ca(OH)2(s) into 100.0 mL of distilled water and stirs the mixture. How would the results be affected if the student repeats the experiment but this time places 5.0 g of Ca(OH)2(s) into 100.0 mL of 0.0010 M NaOH(aq) instead of distilled water?",
+    "responses": {
+      "1": "Less solid will dissolve, because the larger value of [OH-] will cause the equilibrium position to lie farther to the right.",
+      "2": "Less solid will dissolve, because the larger value of [OH-] will cause the equilibrium position to lie farther to the left.",
+      "3": "More solid will dissolve, because the larger value of [OH-] will cause the equilibrium position to lie farther to the right.",
+      "4": "More solid will dissolve, because the smaller value of [OH-] will cause the equilibrium position to lie farther to the left.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "PCl3(g) + Cl2(g) ⇌ PCl5(g) Kc = 6.5. At a certain point in time, a 1.00 L rigid reaction vessel contains 1.5 mol of PCl3(g), 1.0 mol of Cl2(g), and 2.5 mol of PCl5(g). Which of the following describes how the measured pressure in the reaction vessel will change and why it will change that way as the reaction system approaches equilibrium at constant temperature?",
+    "responses": {
+      "1": "The pressure will increase because Q < Kc",
+      "2": "The pressure will increase because Q > Kc",
+      "3": "The pressure will decrease because Q < Kc",
+      "4": "The pressure will decrease because Q > Kc",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 7 SET A Equimolar samples of Pb(OH)2(s), PbI2(s) and PbF2(s) are placed in three separate beakers, each containing 250 mL of water at 25°C. After the solutions are stirred, solid remains in the bottom of each beaker. Based on the Ksp values for the compounds listed in the table, a solution of which of the compounds will have the lowest [Pb2+]?",
+    "responses": {
+      "1": "Pb(OH)2(s)",
+      "2": "PbI2(s) only",
+      "3": "PbF2(s) only",
+      "4": "Both PbI2(s) and PbF2(s) will produce solutions with the same, lowest [Pb2+]",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "The value of Kp for the evaporation of CH3OH(l) at 300 K is closest to",
+    "responses": {
+      "1": "0.04",
+      "2": "0.2",
+      "3": "5",
+      "4": "30",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 7 SET A Which of the following shows the relationship between K1 and K2 in the reactions represented above?",
+    "responses": {
+      "1": "K2 = (K1)^2",
+      "2": "K2 = sqrt(K1)",
+      "3": "K2 = 1/(K1)^2",
+      "4": "K2 = 1/K1",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A 0.0300 mol sample of NO2(g) is placed in a rigid 1.00 L reaction vessel and allowed to reach equilibrium at a certain temperature. What is the value of Kc at this temperature if 0.00500 mol of N2O4(g) is present at equilibrium?",
+    "responses": {
+      "1": "0.0800",
+      "2": "0.250",
+      "3": "4.00",
+      "4": "12.5",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Ge(g) + 2 Cl2(g) ⇌ GeCl4(g). The value of the equilibrium constant for the reaction represented above is 1*10^10. What is the value of the equilibrium constant for the following reaction? 2 GeCl4(g) ⇌ 2 Ge(g) + 4 Cl2(g)",
+    "responses": {
+      "1": "1*10^-20",
+      "2": "1*10^-10",
+      "3": "1*10^10",
+      "4": "1*10^20",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "X2(g) + Y2(g) ⇌ 2 XY(g) Kc = 3.0. A mixture of X2(g), Y2(g), and XY(g) is placed in a previously evacuated, rigid container and allowed to reach equilibrium at a constant temperature, as shown above. Which of the following sets of initial concentrations would lead to the formation of more product as the system moves toward equilibrium?",
+    "responses": {
+      "1": "[X2] = 0.40 M, [Y2] = 0.40 M, [XY] = 0.20 M",
+      "2": "[X2] = 0.30 M, [Y2] = 0.30 M, [XY] = 0.90 M",
+      "3": "[X2] = 0.15 M, [Y2] = 0.15 M, [XY] = 0.30 M",
+      "4": "[X2] = 0.10 M, [Y2] = 0.10 M, [XY] = 0.20 M",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "The value of Ksp for the salt PbF2 is 3.2*10^-8. The concentration of [Pb2+] in a saturated solution of PbF2 is approximately:",
+    "responses": {
+      "1": "2*10^-4 M",
+      "2": "4*10^-4 M",
+      "3": "2*10^-3 M",
+      "4": "4*10^-3 M",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 7 SET A Based on the information above, which of the following gives the value of Keq and the sign of ΔG° for the reaction represented by the equation below at 1000 K? 2 FeO(s) + C(s) ⇌ 2 Fe(s) + CO2(g)",
+    "responses": {
+      "1": "Keq = 1*10^-38, ΔG° = Positive",
+      "2": "Keq = 1*10^-38, ΔG° = Negative",
+      "3": "Keq = 1*10^26, ΔG° = Positive",
+      "4": "Keq = 1*10^26, ΔG° = Negative",
+      "5": null
+    },
+    "answer": 4
+  },
+
+  {
+    "question": "N2(g) + 3H2(g) ⇌ 2NH3(g)\nGiven the reaction above, what is the equilibrium constant, K?",
+    "responses": {
+      "1": "Kc = [N2][H2]^3 / [2NH3]^2",
+      "2": "Kc = [NH3] / [H2][N2]",
+      "3": "Kc = [NH3]^2 / [H2]^3[N2]",
+      "4": "Kc = [N2][H2] / [NH3]",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 7 SET B\nThe graph above presents the relationship of concentration of products and reactants as the reaction progresses. Which point of time was equilibrium reached?",
+    "responses": {
+      "1": "0",
+      "2": "0.75",
+      "3": "1",
+      "4": "1.5",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "At a constant temperature, which of the following reactions would be affected from a change in pressure?",
+    "responses": {
+      "1": "2SO2(g) + O2(g) ⇌ 2SO3(g)",
+      "2": "N2(g) + H2(g) ⇌ 2NH3(g)",
+      "3": "2HI(g) ⇌ H2(g) + I2(g)",
+      "4": "2NO(g) ⇌ N2(g) + O2(g)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "At a constant temperature, an increase in pressure would lead to an increase in product for which of the following reactions?",
+    "responses": {
+      "1": "2NO(g) ⇌ N2(g) + O2(g)",
+      "2": "H2(g) + CO2(g) ⇌ H2O(g) + CO(g)",
+      "3": "CO(g) + Cl2(g) ⇌ COCl2(g)",
+      "4": "2N2O5 ⇌ 4NO2(g) + O2(g)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "CaCO3 + energy ⇌ CaO(s) + CO2(g)\nThe given reaction above takes place in a container. Given the reaction, which of the following changes would lead to an increase in the concentration of CO2(g)?",
+    "responses": {
+      "1": "An increase in temperature",
+      "2": "A decrease in temperature",
+      "3": "An increase in volume",
+      "4": "A decrease in volume",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "H2(g) + I2(g) ⇌ 2HI delta H = 58 kJ/mol_rxn\nThe reaction provided is in an equilibrium at 25 degrees C. What is the expression of the equilibrium constant for the reaction?",
+    "responses": {
+      "1": "Kc = [H2][I2] / [HI]^2",
+      "2": "Kc = [HI]^2 / [H2][I2]",
+      "3": "Kc = [HI] / [H2][I2]",
+      "4": "Kc = [H2][I2] / [HI]",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "H2(g) + I2(g) ⇌ 2HI delta H = 58 kJ/mol_rxn\nWhich of the following changes would affect the reverse reaction to speed up?",
+    "responses": {
+      "1": "Increase the temperature",
+      "2": "Decrease the temperature",
+      "3": "Increase the concentration of I2",
+      "4": "Decrease the pressure",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "H2(g) + I2(g) ⇌ 2HI delta H = 58 kJ/mol_rxn\nWhich of the following would lead to a reduction in the value of the equilibrium constant?",
+    "responses": {
+      "1": "Decrease the temperature",
+      "2": "Increase the temperature",
+      "3": "Increase the concentration of I2",
+      "4": "Decrease the pressure",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "H2(g) + I2(g) ⇌ 2HI delta H = 58 kJ/mol_rxn\nThe value of Kc is 5.0. Which of the following would result in order to reach equilibrium if the initial concentration of all three species is 3.0?",
+    "responses": {
+      "1": "No change would occur.",
+      "2": "The rate of forward reaction will increase.",
+      "3": "The rate of reverse reaction will increase.",
+      "4": "Both sides of the reaction will increase.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "2NO(g) ⇌ N2(g) + O2(g)\nFrom the reaction given above, what is the expression of the equilibrium constant, Kp?",
+    "responses": {
+      "1": "Kp = (O2)(N2) / (NO)^2",
+      "2": "Kp = (O2)(N2) / (NO)",
+      "3": "Kp = (NO)^2 / (O2)(N2)",
+      "4": "Kp = (NO) / (O2)(N2)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "2NO(g) ⇌ N2(g) + O2(g)\nThe reaction provided above has reached equilibrium at a certain temperature. During that time, the partial pressure due to NO was 3 atmospheres, the partial pressure due to N2 was 2 atmospheres, and the partial pressure due to O2 was 3 atmospheres. What is the value of the equilibrium constant, Kp?",
+    "responses": {
+      "1": "1/3",
+      "2": "2/3",
+      "3": "1",
+      "4": "2",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "The Ksp value of AgBr is 7.7*10^-13. Which of the following is equal to the solubility of AgBr?",
+    "responses": {
+      "1": "7.7*10^-13 M",
+      "2": "5.9*10^-25 M",
+      "3": "8.8*10^-7 M",
+      "4": "3.7*10^-13 M",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Pb2+(aq) + Zn(s) ⇌ Pb(s) + Zn2+(aq) Keq = 3*10^30\nA student performed an experiment where he put a 0.20 mol sample of solid zinc into a 500 mL solution of 1.0 M PbSO3(aq). After a long period of time, what would be a possible result?",
+    "responses": {
+      "1": "Half of the concentration of Zn solid remains.",
+      "2": "One-third of the concentration of Zn solid remains.",
+      "3": "All of the concentration of Zn solid remains.",
+      "4": "None of the concentration of Zn solid remains.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "The solubility of AgI is 8.0*10^-17. What is the solubility product constant, Ksp, for AgI?",
+    "responses": {
+      "1": "1.6*10^-16",
+      "2": "8.9*10^-9",
+      "3": "8.0*10^-17",
+      "4": "6.4*10^-33",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "Which of the following expressions is equal to the Ksp of PbCl2?",
+    "responses": {
+      "1": "Ksp = [Pb2+][Cl-]",
+      "2": "Ksp = [Pb2+]^2[Cl-]",
+      "3": "Ksp = [Pb2+][Cl-]^2",
+      "4": "Ksp = [Pb2+]^2[Cl-]^2",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "PbCl2(s) ⇌ Pb2+(aq) + 2Cl-(aq). If [Pb2+] = 3.2*10^-10 M at equilibrium at a certain temperature, which of the following provides the correct Ksp for PbCl2?",
+    "responses": {
+      "1": "1.3*10^-28 M",
+      "2": "1.0*10^-19 M",
+      "3": "5.1*10^-20 M",
+      "4": "8.2*10^-30 M",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "N2(g) + O2(g) ⇌ 2NO(g)\nThe given reaction initially contained 3 moles of N2 and 4 moles of O2. At equilibrium, 4 moles of NO are produced. What is the total number of moles of gas at equilibrium?",
+    "responses": {
+      "1": "6",
+      "2": "7",
+      "3": "8",
+      "4": "9",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "2SO2(g) + O2(g) ⇌ 2SO3(g)\nWhich of the following is the correct result of the reaction provided above depending on the relationship of Q and K when O2 is being added?",
+    "responses": {
+      "1": "When O2 is being added when Q < K, SO3 will be produced more.",
+      "2": "When O2 is being added when Q > K, SO3 will be produced more.",
+      "3": "When O2 is being added when Q < K, SO2 will be produced more.",
+      "4": "When O2 is being added when Q > K, SO2 will be produced less.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "BaF2(s) ⇌ Ba2+(aq) + 2F-(aq)\nThe provided reaction is at equilibrium at a certain temperature during an experiment. Initially, the student performed the experiment with distilled water. During the second experiment, the student decided to use CaF2 instead of distilled water. Which of the following would result in the second experiment?",
+    "responses": {
+      "1": "Less ions will form, because the equilibrium will shift to the left.",
+      "2": "Less ions will form, because the equilibrium will shift to the right.",
+      "3": "More ions will form, because the equilibrium will shift to the left.",
+      "4": "More ions will form, because the equilibrium will shift to the right.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "LiF(s) ⇌ Li+(aq) + F-(aq)\nIn the first experiment, the student prepared the provided reaction. After, the student added an unknown substance that created some solid substances in the solution. Which of the following could be the unknown substance that was being added?",
+    "responses": {
+      "1": "AgI",
+      "2": "Distilled water",
+      "3": "CuS",
+      "4": "NaF",
+      "5": null
+    },
+    "answer": 4
+  }
+]

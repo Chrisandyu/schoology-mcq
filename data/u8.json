@@ -1,0 +1,421 @@
+[
+  {
+    "question": "What is the pOH of a 0.002M solution of Ba(OH)2?",
+    "responses": {
+      "1": "3",
+      "2": "2",
+      "3": "12",
+      "4": "7",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A buffer contains equal concentrations of a weak acid HA and its conjugate base A. If the pH of this buffer is 6.80, what is the pka of the weak acid.",
+    "responses": {
+      "1": "7.80",
+      "2": "6.80",
+      "3": "6.89-log(2)",
+      "4": "5.80",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Samples of NaF(s) and NH4Cl(s) are dissolved in separate beakers that each contain 100mL of water. One of the salts produces a slightly acidic solution. Which of the following equations best represents the formation of the slightly acidic solution.",
+    "responses": {
+      "1": "Na+(aq)+2H2O(l)⇌NaOH(aq)+H3O+(aq)",
+      "2": "F(aq)+H2O(l)⇌HF(aq)+OH-(aq)",
+      "3": "NH4+(aq)+H2O(l)⇌NH3(aq)+H3O+(aq)",
+      "4": "Cl-(aq)+H2O(l)⇌HCl(aq)+OH-(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "Which of the following gives the best estimate for the pH of a 5*10^-4M Sr(OH)2(aq) solution at 25°C?",
+    "responses": {
+      "1": "pH≈3.0 because Sr(OH)2 is a strong acid.",
+      "2": "pH≈5.0 because Sr(OH)2 is a weak acid.",
+      "3": "pH≈9.0 because Sr(OH)2 is a weak base.",
+      "4": "pH≈11.0 because Sr(OH)2 is a strong base.",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET A\nLewis diagrams of the weak bases NH3 and NF3 are shown above. Based on these diagrams, which of the following predictions of their relative base strength is correct, and why?",
+    "responses": {
+      "1": "NF3 is a stronger base than NH3 because more than one resonance structure exists for its conjugate acid NF3H+, making it more stable than NH4+",
+      "2": "NF3 is a weaker base than NH3 because of the greater electronegativity of F compared with H.",
+      "3": "NF3 is a stronger base than NH3 because of the greater electronegativity of F compared with H.",
+      "4": "NF3 is a weaker base than NH3 because more than one resonance structure exists for its conjugate acid NF3H+ making it more stable than NH4+",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A 0.100 M solution of formic acid (HCOOH) has a percent ionization of 4.2%. What is the concentration of H3O+ at equilibrium?",
+    "responses": {
+      "1": "4.2*10^-3M",
+      "2": "2.1*10^-3M",
+      "3": "4.2*10^-2 M",
+      "4": "8.4*10^-3 M",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "Which of the following pairs is a conjugate acid-base pair?",
+    "responses": {
+      "1": "H2O and OH-",
+      "2": "HCI and Cl",
+      "3": "NH4+ and NH3",
+      "4": "All of the above",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "A solution is prepared by mixing equal volumes of 0.20 M HC2H3O2 and 0.40 M NaC2H3O2. Which of the following correctly describes what occurs if a small amount of HCl(aq) or NaOH(aq) is added?",
+    "responses": {
+      "1": "If HCl(aq) is added, the pH will increase only slightly because the Cl- ions will react with C2H3O2 ions.",
+      "2": "If HCl(aq) is added, the pH will decrease only slightly because the H+ ions will react with C2H3O2 ions.",
+      "3": "If NaOH(aq) is added, the pH will increase only slightly because the OH- ions will react with C2H3O2 ions.",
+      "4": "If NaOH(aq) is added, the pH will decrease only slightly because the OH- ions will react with HC2H3O2 molecules.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "The value of Kw at 40°C is 3.0*10^-14. What is the pH of pure water at 40°C?",
+    "responses": {
+      "1": "3.0",
+      "2": "6.8",
+      "3": "7.0",
+      "4": "7.2",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is the balanced net ionic equation for the reaction between HCN(aq) and NaOH(aq)?",
+    "responses": {
+      "1": "H3O+(aq)+OH-(aq)→2H2O(l)",
+      "2": "H3O++NaOH(aq)→Na+(aq)+2H2O(l)",
+      "3": "HCN(aq)+OH-(aq)→CN-(aq)+H2O(l)",
+      "4": "HCN(aq)+NaOH(aq)→NaCN(aq)+H2O(l)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET A\nA student is tasked with titrating a sample of a 30. mL weak base with 0.10 M HCl (aq). To determine the equivalence point of the titration, the student is given a choice of the indicators listed in the table below. Which of the following identifies the best indicator for the titration?",
+    "responses": {
+      "1": "Methyl red",
+      "2": "Bromothymol blue",
+      "3": "o-Cresolphthalein",
+      "4": "Alizarin yellow",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "A 50.0 mL sample of 0.15M HClO4 (aq) is added to 75.0 mL of distilled water. Calculate the pH of the resulting solution.",
+    "responses": {
+      "1": "1.22",
+      "2": "6.37",
+      "3": "12.78",
+      "4": "4.95",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET A\nThe molecular formula of methylamine, a weak base, is CH3NH2. In an experiment, a 20.0 mL sample of 0.115M CH3NH2 is titrated with a HBr (aq) solution of unknown concentration. The pH is measured throughout the titration using a pH meter, and the resulting data is plotted in the graph below.",
+    "responses": {
+      "1": "0.580",
+      "2": "0.269",
+      "3": "1.524",
+      "4": "0.192",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET A\nWhich of the following correctly ranks the solutions listed in the table above from lowest to highest pH?",
+    "responses": {
+      "1": "X<Y<Z",
+      "2": "Y<X<Z",
+      "3": "Y<Z<X",
+      "4": "Z<X<Y",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "HCN(aq)+SO4^2-(aq) → CN-(aq) + HSO4-(aq) and Keq<1. Which of the following identifies the strongest base in the reaction represented above?",
+    "responses": {
+      "1": "HCN(aq)",
+      "2": "SO4^2-(aq)",
+      "3": "CN-(aq)",
+      "4": "HSO4-(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A buffer solution that is 0.100M in both HCOOH and HCOOK has a pH=3.75. A student says that if a very small amount of 0.100MHCI is added to the buffer, the pH will decrease by a very small amount. Which of the following best supports the student's claim?",
+    "responses": {
+      "1": "HCOO- will accept a proton from HCl to produce more HCOOH and H2O.",
+      "2": "HCOOH will accept a proton from HCI to produce more HCOO- and H2O.",
+      "3": "HCOO- will donate a proton to HCI to produce more HCOOH and H2O.",
+      "4": "HCOOH will donate a proton to HCI to produce more HCOO- and H2O.",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET A\nHCOOH(aq)+H2O(l)⇌H3O+(aq)+HCOO-(aq) Ka=1.8*10^-4 at 25°C. The equilibrium for the acid ionization of HCOOH is represented by the equation above, and the table gives the percent ionization for HCOOH at different initial concentrations of the weak acid at 25°C. Based on the information, which of the following is true for a 0.125M aqueous solution of HCOOH?",
+    "responses": {
+      "1": "It has a higher percent ionization, a lower [H3O+(eq)], and a lower pH than a 0.150M HCOOH solution does.",
+      "2": "It has a higher percent ionization, a lower [H3O+(eq)], and a higher pOH than a 0.150M HCOOH solution does.",
+      "3": "It has a lower percent ionization, a higher [H3O+(eq)], and a higher pOH than 0.100M HCOOH solution does.",
+      "4": "It has a lower percent ionization, a higher [H3O+(eq)], and a higher pH than a 0.100M HCOOH solution does.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET A\nA 10.0mL solution of an unknown acid, HA, is titrated with 0.20M NaOH(aq) The reaction that occurs during the titration is represented by the following equation: HA(aq)+OH-(aq)→H2O(l)+A-(aq). The pKa of HA is closest to which of the following?",
+    "responses": {
+      "1": "2.2",
+      "2": "4.3",
+      "3": "5.4",
+      "4": "8.7",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "A solution is prepared by mixing 0.50L of 0.40M HNO3 with 0.50L of 0.20M KOH. If it is assumed that volumes are additive, the pH of the resulting mixture will be which of the following?",
+    "responses": {
+      "1": "0.10",
+      "2": "0.70",
+      "3": "1.0",
+      "4": "7.0",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "A solution is prepared by combining 1.0L of 0.50M HClO2 with 1.0L of 0.50M KClO2. The pH of the solution is 2.0. When 10mL of 0.50M NaOH is added to the solution, the pH does not change significantly. Which of the following is the net ionic equation for the reaction that occurs and prevents a significant change in pH?",
+    "responses": {
+      "1": "NaOH(aq) + K+(aq) → KOH(aq) + Na+(aq)",
+      "2": "NaOH(aq) + ClO2-(aq) → NaCl(aq) + H2O(l)",
+      "3": "OH-(aq) + Na+(aq) → NaOH(s)",
+      "4": "OH-(aq) + HClO2(aq) → ClO2-(aq) + H2O(l)",
+      "5": null
+    },
+    "answer": 4
+  },
+
+  {
+    "question": "A 20. mL sample of 0.50 M HC2H3O2(aq) is titrated with 0.50 M NaOH(aq). Which of the following best represents the species that react and the species produced in the reaction?",
+    "responses": {
+      "1": "H+(aq) + OH-(aq) -> H2O(l)",
+      "2": "H+(aq) + C2H3O2-(aq) + Na+(aq) + OH-(aq) -> H2O(l) + NaC2H3O2(aq)",
+      "3": "HC2H3O2(aq) + OH-(aq) -> C2H3O2-(aq) + H2O(l)",
+      "4": "HC2H3O2(aq) + NaOH(aq) -> H2O(l) + Na+(aq) + C2H3O2-(aq)",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "HNO2(aq) -> H+(aq) + NO2-(aq) Ka = 4.0 * 10^-4\nOn the basis of the information above, what is the approximate percent ionization of HNO2 in a 1.0 M HNO2(aq) solution?",
+    "responses": {
+      "1": "0.00040%",
+      "2": "0.020%",
+      "3": "0.040%",
+      "4": "2.0%",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nThe values of the dissociation constants for H3PO4 are given in the table above. Given that the solution in the beaker at the end of step 2 had a pH of approximately 1, which of the following chemical species had the lowest concentration among the products of step 2?",
+    "responses": {
+      "1": "H-(aq)",
+      "2": "H2PO4-(aq)",
+      "3": "HPO4 2-(aq)",
+      "4": "PO4 3-(aq)",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "When a small amount of 12 M HNO3(aq) is added to a buffer solution made by mixing CH3NH2(aq) and CH3NH3Cl(aq), the pH of the buffer solution changes from 10.64 to 10.62. Which of the following equations represents the reaction that accounts for the fact that the pH does not change significantly when the HNO3(aq) is added?",
+    "responses": {
+      "1": "CH3NH2(aq) + H+(aq) -> CH3NH3+(aq)",
+      "2": "CH3NH3+(aq) + H+(aq) -> CH3NH4 2+(aq)",
+      "3": "NO3-(aq) + H+(aq) -> HNO3(aq)",
+      "4": "OH-(aq) + H+(aq) -> H2O(l)",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "The pH of a solution made by combining 150.0 mL of 0.10 M KOH(aq) with 50.0 mL of 0.20M HBr(aq) is closest to which of the following?",
+    "responses": {
+      "1": "2",
+      "2": "4",
+      "3": "7",
+      "4": "12",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nThe structure of haloacetic acids, XCH2COOH (where X is either F, Cl, Br, or I), is shown above. The dissociation constants and molar masses of four haloacetic acids are listed in the table below. An aqueous solution contains small but equal concentrations of both chloroacetic and fluoroacetic acids. Which statement comparing the percent ionizations of the two acids in the solution is true?",
+    "responses": {
+      "1": "The percent ionization of chloroacetic acid is greater than that of fluoroacetic acid.",
+      "2": "The percent ionization of chloroacetic acid is less than that of fluoroacetic acid.",
+      "3": "The percent ionizations cannot be compared without knowing the concentrations of the two acids.",
+      "4": "The percent ionizations cannot be compared without knowing the pH of the solution.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nA student titrates 10.0 mL samples of 1.0 M solutions of each of the haloacetic acids with a standard solution of NaOH. Which of the following statements correctly predicts the volume of NaOH(aq) needed to reach the equivalence point?",
+    "responses": {
+      "1": "Fluoroacetic acid will need the smallest volume of NaOH(aq) to reach the equivalence point.",
+      "2": "Iodoacetic acid will need the smallest volume of NaOH(aq) to reach the equivalence point.",
+      "3": "All of the acids will need the same volume of NaOH(aq) to reach the equivalence point.",
+      "4": "All of the haloacetic acids are weak; therefore none will reach an equivalence point.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "At 25 degrees C, enough distilled water is added to a 30.0 mL sample of HNO3(aq) with a pH of 4.20 so that the final pH of the diluted solution is 5.20. The volume of distilled water added to the original solution is closest to",
+    "responses": {
+      "1": "30.0 mL",
+      "2": "60.0 mL",
+      "3": "270. mL",
+      "4": "300. mL",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "An acetate buffer solution is prepared by combining 50. mL of 0.20 M acetic acid, HC2H3O2(aq), and 50. mL of 0.20 M sodium acetate, NaC2H3O2(aq). A 5.0 mL sample of 0.10 M NaOH(aq) is added to the buffer solution. Which of the following is a correct pairing of the acetate species present in greater concentration and of the pH of the solution after the NaOH(aq) is added? (The pKa of acetic acid is 4.7.)",
+    "responses": {
+      "1": "HC2H3O2 < 4.7",
+      "2": "HC2H3O2 > 4.7",
+      "3": "C2H3O2- < 4.7",
+      "4": "C2H3O2- > 4.7",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nAcid-dissociation constants of two acids are listed in the table above. A 20. mL sample of a 0.10 M solution of each acid is titrated to the equivalence point with 20. mL of 0.10 M NaOH. Which of the following is a true statement about the pH of the solutions at the equivalence point?",
+    "responses": {
+      "1": "Solution 1 has a higher pH at the equivalence point because CH3CO2H is the stronger acid.",
+      "2": "Solution 1 has a higher pH at the equivalence point because CH3CO2H has the stronger conjugate base.",
+      "3": "Solution 1 has a lower pH at the equivalence point because CH3CO2H is the stronger acid.",
+      "4": "Solution 1 has a lower pH at the equivalence point because CH3CO2H has the stronger conjugate base.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "Which of the following accounts for the observation that the pH of pure water at 37 degrees C is 6.8?",
+    "responses": {
+      "1": "At 37 degrees C water is naturally acidic.",
+      "2": "At 37 degrees C the autoionization constant for water, Kw, is larger than it is at 25 degrees C.",
+      "3": "At 37 degrees C water has a lower density than it does at 25 degrees C; therefore, [H+] is greater.",
+      "4": "At 37 degrees C water ionizes to a lesser extent than it does at 25 degrees C.",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "HF(aq) + H2O(l) <=> H3O+(aq) + F-(aq)\nThe dissociation of the weak acid HF in water is represented by the equation above. Adding a 1.0 mL sample of which of the following would increase the percent ionization of HF(aq) in 10 mL of a solution of 1.0 M HF?",
+    "responses": {
+      "1": "1.0 M KF",
+      "2": "1.0 M H2SO4",
+      "3": "10.0 M HF",
+      "4": "Distilled water",
+      "5": null
+    },
+    "answer": 4
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nThe acid-dissociation constants of HC3H5O3(aq) and CH3NH3+(aq) are given in the table above. Which of the following mixtures is a buffer with a pH of approximately 3?",
+    "responses": {
+      "1": "A mixture of 100. mL of 0.1M CH3NH3Cl and 50. mL of 0.1 M NaOH",
+      "2": "A mixture of 100. mL of 0.1 M HC3H5O3 and 50. mL of 0.1 M NaOH",
+      "3": "A mixture of 100. mL of 0.1 M NaC3H5O3 and 100. mL of 0.1 M NaOH",
+      "4": "A mixture of 100. mL of 0.1M CH3NH3Cl and 100. mL of 0.1 M CH3NH2",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nTo maximize the yield in a certain manufacturing process, a solution of a weak monoprotic acid that has a concentration between 0.20 M and 0.30 M is required. Four 100. mL samples of the acid at different concentrations are each titrated with a 0.20 M NaOH solution. The volume of NaOH needed to reach the end point for each sample is given in the table above. Which solution is the most suitable to maximize the yield?",
+    "responses": {
+      "1": "Solution A",
+      "2": "Solution B",
+      "3": "Solution C",
+      "4": "Solution D",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "HX(aq) + Y-(aq) -> HY(aq) + X-(aq) K > 1\nA solution of a salt of a weak acid HY of another weak acid HX. Based on the information given above, which of the following species is the strongest base?",
+    "responses": {
+      "1": "HX(aq)",
+      "2": "Y-(aq)",
+      "3": "HY(aq)",
+      "4": "X-(aq)",
+      "5": null
+    },
+    "answer": 2
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nA student performs an acid-base titration and plots the experimental results in the graph above. Which of the following statements best explains the experimental findings?",
+    "responses": {
+      "1": "A strong acid was titrated with a strong base, as evidenced by the equivalence point at pH=7",
+      "2": "A strong acid was titrated with a strong base, as evidenced by the equivalence point at pH>7",
+      "3": "A weak acid was titrated with a strong base, as evidenced by the equivalence point at pH>7",
+      "4": "A weak acid was titrated with a weak base, as evidenced by the equivalence point at pH approximately 7.",
+      "5": null
+    },
+    "answer": 3
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nNaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)\nTo determine the concentration of a NaOH(aq) solution, a student titrated a 50. mL sample with 0.10 M HCl(aq). The reaction is represented by the equation above. The titration is monitored using a pH meter, and the experimental results are plotted in the graph below. At the point labeled R on the pH curve, which of the following ions are present in the reaction mixture at a concentration greater than 0.01 M?",
+    "responses": {
+      "1": "Na+ and Cl- only",
+      "2": "Na+, Cl-, and H+ only",
+      "3": "Na+, Cl-, and OH- only",
+      "4": "Na+, Cl-, H+, and OH-",
+      "5": null
+    },
+    "answer": 1
+  },
+  {
+    "question": "MANUAL UPLOAD NEEDED FROM UNIT 8 SET B\nOne student titrated the NaOH(aq) with 1.0 M HCl(aq) instead of 0.10 M HCl(aq). How would the student's titration curve differ from the original curve?",
+    "responses": {
+      "1": "The initial pH would be 11 instead of 13.",
+      "2": "The pH at the equivalence point would be 5 instead of 7.",
+      "3": "The pH far beyond the equivalence point would be higher than in the original curve.",
+      "4": "The pH far beyond the equivalence point would be lower than in the original curve.",
+      "5": null
+    },
+    "answer": 4
+  }
+]
