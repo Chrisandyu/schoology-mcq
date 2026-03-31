@@ -1,11 +1,16 @@
 package com.example;
 
 import io.github.cdimascio.dotenv.Dotenv;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
 import java.lang.Character;
 import java.time.Duration;
 import java.util.Arrays;
 import java.util.List;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -35,7 +40,7 @@ public class App {
         By accountButtonBy = By.xpath(
             "//div[@data-button-type='multipleChoiceIdentifier']"
         );
-        WebElement accountButton = waitFor(accountButtonBy);
+        WebElement accountButton = waitForElement(accountButtonBy);
         accountButton.click();
 
         populateQuestion(1);
@@ -43,37 +48,15 @@ public class App {
         // for (int i = 0; i < numQuestions; i++) {
         //     populateQuestion(i);
         // }
-
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-    }
-
-    public static WebElement waitFor(By thing) {
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        return wait.until(ExpectedConditions.visibilityOfElementLocated(thing));
-    }
-
-    public static void sleep(double seconds) {
-        try {
-            Thread.sleep((int) (seconds * 1000));
-        } catch (InterruptedException error) {}
-    }
-
-    public static String getBankURL(int unit) {
-        List<String> urls = Arrays.asList(
-            "https://fuhsd.schoology.com/common-assessment-question-banks/219881976?f=378005801",
-            "https://fuhsd.schoology.com/common-assessment-question-banks/220480315?f=378005802",
-            "https://fuhsd.schoology.com/common-assessment-question-banks/220480355?f=378005803"
-        );
-        return urls.get(unit + 1);
     }
 
     public static void populateQuestion(int questionNum) {
-        WebElement createMCQButton = waitFor(
+        WebElement createMCQButton = waitForElement(
             By.xpath("//a[@aria-label='Add Multiple Choice Item']")
         );
         createMCQButton.click();
 
-        WebElement questionBox = waitFor(
+        WebElement questionBox = waitForElement(
             By.xpath("//div[@sgy-translation-attr='Write your question']")
         );
         sleep(0.2);
@@ -84,14 +67,14 @@ public class App {
         sendKeysSlower(question);
 
         //add the 5th option if exists
-        WebElement addOptionButton = driver.findElement(
+        WebElement addOptionButton = waitForElement(
             By.xpath("//button[@aria-label='Option']")
         );
         int numOptions = 5;
         if (numOptions == 5) addOptionButton.click();
         sleep(0.5);
 
-        List<WebElement> optionBoxes = driver.findElements(
+        List<WebElement> optionBoxes = waitForElements(
             By.xpath(
                 "//div[contains(@aria-label, 'Label') and @role='textbox']"
             )
@@ -105,8 +88,10 @@ public class App {
             sleep(0.1);
         }
 
+        sleep(0.2);
+
         //get scrollable container
-        WebElement scrollableDiv = driver.findElement(
+        WebElement scrollableDiv = waitForElement(
             By.className("ltq-modal-question-editor__scrollable-content")
         );
         //https://www.selenium.dev/documentation/webdriver/actions_api/wheel/
@@ -117,12 +102,12 @@ public class App {
         sleep(3);
 
         int answer = 5;
-        List<WebElement> answerChoiceRadios = driver.findElements(
+        List<WebElement> answerChoiceRadios = waitForElements(
             By.xpath("//*[@class='lrn-mcq-option']//input[@type='radio']")
         );
         answerChoiceRadios.get(answer - 1).click();
 
-        WebElement shuffleOptionButton = waitFor(
+        WebElement shuffleOptionButton = waitForElement(
             By.xpath(
                 "//span[@class='lrn-qe-switch-trigger' and @yes-text='Yes']"
             )
@@ -131,10 +116,43 @@ public class App {
 
         sleep(0.5);
 
-        WebElement saveButton = driver.findElement(
+        WebElement saveButton = waitForElement(
             By.cssSelector(".save.btn.btn-primary")
         );
         saveButton.click();
+    }
+
+    public static WebElement waitForElement(By thing) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        return wait.until(ExpectedConditions.visibilityOfElementLocated(thing));
+    }
+
+    public static List<WebElement> waitForElements(By thing) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        return wait.until(
+            ExpectedConditions.presenceOfAllElementsLocatedBy(thing)
+        );
+    }
+
+    public static void sleep(double seconds) {
+        try {
+            Thread.sleep((int) (seconds * 1000));
+        } catch (InterruptedException error) {}
+    }
+
+    public static String getBankURL(int unit) {
+        List<String> urls = Arrays.asList(
+            "https://fuhsd.schoology.com/common-assessment-question-banks/219881976?f=378005801",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480315?f=378005802",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480355?f=378005803",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480373?f=378005804",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220381074?f=378005807",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480392?f=378005809",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480403?f=378005814",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480413?f=378005823",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480432?f=378005834"
+        );
+        return urls.get(unit + 1);
     }
 
     static void sendKeysSlower(String text) {
