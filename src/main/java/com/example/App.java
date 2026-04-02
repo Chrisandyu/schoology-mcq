@@ -15,6 +15,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WindowType;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
@@ -37,34 +38,59 @@ public class App {
         options.addArguments("-profile", profilePath);
 
         driver = new FirefoxDriver(options);
-        driver.get(getBankURL(1));
+        driver.get("https://fuhsd.schoology.com");
 
         By accountButtonBy = By.xpath(
-                "//div[@data-button-type='multipleChoiceIdentifier']");
+            "//div[@data-button-type='multipleChoiceIdentifier']"
+        );
         WebElement accountButton = waitForElement(accountButtonBy);
         accountButton.click();
 
         // populateQuestion(1);
-        try {
-            ArrayList<Question> questions = QuestionReader
-                    .readQuestions("data/u3.json");
-            for (Question q : questions) {
-                populateQuestion(q.getQuestion(), q.getResponses(), q.getNumResponses(), q.getCorrectAnswer());
+        //
+        int[] units = new int[] { 3, 4, 6, 7, 8, 9 };
+        for (int i = 0; i < units.length; i++) {
+            int unit = units[i];
+            sleep(3);
+            driver.switchTo().newWindow(WindowType.TAB);
+            sleep(1);
+            driver.get(getBankURL(unit));
+            try {
+                ArrayList<Question> questions = QuestionReader.readQuestions(
+                    "data/u" + unit + ".json"
+                );
+                for (Question q : questions) {
+                    populateQuestion(
+                        q.getQuestion(),
+                        q.getResponses(),
+                        q.getNumResponses(),
+                        q.getCorrectAnswer()
+                    );
+                }
+            } catch (IOException e) {
+                System.out.println(e.getMessage());
             }
-        } catch (IOException e) {
-            System.out.println(e.getMessage());
         }
 
+        sleep(10);
+        driver.quit();
     }
 
-    public static void populateQuestion(String question, ArrayList<String> responses, int numResponses,
-            int correctAnswer) {
+    public static void populateQuestion(
+        String question,
+        ArrayList<String> responses,
+        int numResponses,
+        int correctAnswer
+    ) {
+        sleep(0.5);
         WebElement createMCQButton = waitForElement(
-                By.xpath("//a[@aria-label='Add Multiple Choice Item']"));
+            By.xpath("//a[@aria-label='Add Multiple Choice Item']")
+        );
         createMCQButton.click();
 
         WebElement questionBox = waitForElement(
-                By.xpath("//div[@sgy-translation-attr='Write your question']"));
+            By.xpath("//div[@sgy-translation-attr='Write your question']")
+        );
         sleep(0.2);
 
         questionBox.click();
@@ -73,15 +99,17 @@ public class App {
 
         // add the 5th option if exists
         WebElement addOptionButton = waitForElement(
-                By.xpath("//button[@aria-label='Option']"));
+            By.xpath("//button[@aria-label='Option']")
+        );
 
-        if (numResponses == 5)
-            addOptionButton.click();
+        if (numResponses == 5) addOptionButton.click();
         sleep(0.5);
 
         List<WebElement> optionBoxes = waitForElements(
-                By.xpath(
-                        "//div[contains(@aria-label, 'Label') and @role='textbox']"));
+            By.xpath(
+                "//div[contains(@aria-label, 'Label') and @role='textbox']"
+            )
+        );
         int index = 0;
         for (WebElement option : optionBoxes) {
             option.click();
@@ -96,27 +124,33 @@ public class App {
 
         // get scrollable container
         WebElement scrollableDiv = waitForElement(
-                By.className("ltq-modal-question-editor__scrollable-content"));
+            By.className("ltq-modal-question-editor__scrollable-content")
+        );
         // https://www.selenium.dev/documentation/webdriver/actions_api/wheel/
-        WheelInput.ScrollOrigin scrollOrigin = WheelInput.ScrollOrigin.fromElement(scrollableDiv);
+        WheelInput.ScrollOrigin scrollOrigin =
+            WheelInput.ScrollOrigin.fromElement(scrollableDiv);
         new Actions(driver).scrollFromOrigin(scrollOrigin, 0, 400).perform();
 
         sleep(3);
 
         int answer = 5;
         List<WebElement> answerChoiceRadios = waitForElements(
-                By.xpath("//*[@class='lrn-mcq-option']//input[@type='radio']"));
+            By.xpath("//*[@class='lrn-mcq-option']//input[@type='radio']")
+        );
         answerChoiceRadios.get(correctAnswer - 1).click();
 
         WebElement shuffleOptionButton = waitForElement(
-                By.xpath(
-                        "//span[@class='lrn-qe-switch-trigger' and @yes-text='Yes']"));
+            By.xpath(
+                "//span[@class='lrn-qe-switch-trigger' and @yes-text='Yes']"
+            )
+        );
         shuffleOptionButton.click();
 
         sleep(0.5);
 
         WebElement saveButton = waitForElement(
-                By.cssSelector(".save.btn.btn-primary"));
+            By.cssSelector(".save.btn.btn-primary")
+        );
         saveButton.click();
         sleep(1.5);
     }
@@ -129,28 +163,29 @@ public class App {
     public static List<WebElement> waitForElements(By thing) {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         return wait.until(
-                ExpectedConditions.presenceOfAllElementsLocatedBy(thing));
+            ExpectedConditions.presenceOfAllElementsLocatedBy(thing)
+        );
     }
 
     public static void sleep(double seconds) {
         try {
             Thread.sleep((int) (seconds * 1000));
-        } catch (InterruptedException error) {
-        }
+        } catch (InterruptedException error) {}
     }
 
     public static String getBankURL(int unit) {
         List<String> urls = Arrays.asList(
-                "https://fuhsd.schoology.com/common-assessment-question-banks/219881976?f=378005801",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480315?f=378005802",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480355?f=378005803",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480373?f=378005804",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220381074?f=378005807",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480392?f=378005809",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480403?f=378005814",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480413?f=378005823",
-                "https://fuhsd.schoology.com/common-assessment-question-banks/220480432?f=378005834");
-        return urls.get(unit + 1);
+            "https://fuhsd.schoology.com/common-assessment-question-banks/219881976?f=378005801",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480315?f=378005802",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480355?f=378005803",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480373?f=378005804",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220381074?f=378005807",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480392?f=378005809",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480403?f=378005814",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480413?f=378005823",
+            "https://fuhsd.schoology.com/common-assessment-question-banks/220480432?f=378005834"
+        );
+        return urls.get(unit - 1);
     }
 
     static void sendKeysSlower(String text) {
